@@ -1,0 +1,191 @@
+Opportunity_ID,Lead_ID,Opportunity_Name,Deal_Amount,Sales_Stage,Win_Probability,Expected_Close,Date_Created,Account_Manager,Type,Lead_Source,Product,Forecast_Category,Next_Steps,Competitor,Loss_Reason,Region
+LATAM-OPP-000001,LATAM-LEAD-000002,DigitalPeru - Opportunity,459813.0,Negotiation,72,2023-03-12,2022-07-24,Maria Silva,New,Referral,cloud suite,Pipeline,Follow up,Salesforce,,LATAM
+LATAM-OPP-000002,LATAM-LEAD-000006,CloudChile - Opportunity,247389.0,Prospecting,30,2023-06-22,2023-02-12,,New,Website,,Best Case,,SAP,,LATAM
+LATAM-OPP-000003,LATAM-LEAD-000007,TecnoBrasil - Opportunity,469958.0,CLOSED WON,23,2023-06-22,2022-12-22,Carlos Mendez,Renewal,Referral,Analytics Platform,,,,,LATAM
+LATAM-OPP-000004,LATAM-LEAD-000009,SolucionesSmart - Opportunity,373995.0,Qualification,26,2022-06-27,2022-03-24,Maria Silva,Renewal,Trade Show,Integration Tools,Pipeline,Send proposal,Salesforce,,LATAM
+LATAM-OPP-000005,LATAM-LEAD-000010,TecnoBrasil - Opportunity,155537.0,,31,2025-09-14,2024-09-19,José Rodriguez,Renewal,Referral,Integration Tools,Omitted,Follow up,SAP,,LATAM
+LATAM-OPP-000006,LATAM-LEAD-000012,,368185.0,Needs Analysis,85,2025-01-29,2024-10-14,Maria Silva,,LinkedIn,cloud suite,Best Case,Follow up,Oracle,,LATAM
+LATAM-OPP-000007,LATAM-LEAD-000015,TecnoBrasil - Opportunity,266018.0,CLOSED WON,46,2024-09-12,2024-03-08,,Cross-sell,Partner,Security Suite,Commit,Follow up,Salesforce,,LATAM
+LATAM-OPP-000008,LATAM-LEAD-000016,InnovaColombia - Opportunity,133654.0,Needs Analysis,58,2023-07-20,2023-01-10,José Rodriguez,Cross-sell,Web Form,,Commit,Schedule demo,Salesforce,,LATAM
+LATAM-OPP-000009,LATAM-LEAD-000017,DataArgentina - Opportunity,299656.0,Prospecting,27,2022-06-28,2022-02-10,,Renewal,LinkedIn,cloud suite,Omitted,Follow up,None,,LATAM
+LATAM-OPP-000010,LATAM-LEAD-000021,CloudChile - Opportunity,127667.0,Proposal,47,2024-03-19,2023-12-05,,Upsell,,Cloud Suite,,Schedule demo,SAP,,LATAM
+LATAM-OPP-000011,LATAM-LEAD-000026,CloudChile - Opportunity,469555.0,Negotiation,69,2022-10-17,2022-09-16,Maria Silva,Renewal,Web Form,Cloud,Omitted,,Oracle,,LATAM
+LATAM-OPP-000012,LATAM-LEAD-000027,DataArgentina - Opportunity,313018.0,Negotiation,89,2024-02-29,2023-04-20,José Rodriguez,Renewal,LinkedIn,Integration Tools,Omitted,Follow up,Oracle,,LATAM
+LATAM-OPP-000013,LATAM-LEAD-000032,SolucionesSmart - Opportunity,279712.0,,43,2025-02-11,2024-09-09,José Rodriguez,Cross-sell,Trade Show,cloud suite,,,Salesforce,,LATAM
+LATAM-OPP-000014,LATAM-LEAD-000033,SolucionesSmart - Opportunity,172841.0,Proposal,47,2025-09-15,2024-11-30,,Renewal,Email Marketing,Integration Tools,Pipeline,Schedule demo,,,LATAM
+LATAM-OPP-000015,LATAM-LEAD-000035,TecnoBrasil - Opportunity,200723.0,,78,2025-11-09,2024-01-29,José Rodriguez,New,Referral,Integration Tools,Best Case,,SAP,,LATAM
+LATAM-OPP-000016,LATAM-LEAD-000036,CloudChile - Opportunity,,Negotiation,69,2024-07-04,2023-10-08,Maria Silva,Upsell,web form,Analytics Platform,Best Case,Schedule demo,None,,LATAM
+LATAM-OPP-000017,LATAM-LEAD-000040,,419939.0,Proposal,57,2024-08-06,2024-04-03,Carlos Mendez,,Partner,Cloud Suite,,,,,LATAM
+LATAM-OPP-000018,LATAM-LEAD-000041,DigitalPeru - Opportunity,269370.0,Closed Won,100,2023-02-07,2022-03-13,,Renewal,LinkedIn,Cloud,,Send proposal,None,,LATAM
+LATAM-OPP-000019,LATAM-LEAD-000044,TecnoBrasil - Opportunity,,Closed Lost,0,2024-01-24,2023-01-30,José Rodriguez,Cross-sell,Email Marketing,,Pipeline,,Oracle,,LATAM
+LATAM-OPP-000020,LATAM-LEAD-000049,DataArgentina - Opportunity,14027.0,Prospecting,29,2024-12-09,2024-06-14,Carlos Mendez,Cross-sell,web form,Security Suite,Pipeline,Follow up,None,,LATAM
+LATAM-OPP-000021,LATAM-LEAD-000050,,172503.0,Qualification,30,2023-09-09,2022-10-31,Carlos Mendez,,Website,Cloud,Commit,Schedule demo,None,,LATAM
+LATAM-OPP-000022,LATAM-LEAD-000051,CloudChile - Opportunity,367116.0,Closed Won,100,2024-04-08,2023-04-27,José Rodriguez,New Business,Advertisement,,Pipeline,Follow up,Salesforce,,LATAM
+LATAM-OPP-000023,LATAM-LEAD-000053,CloudChile - Opportunity,222793.0,Prospecting,119,2022-08-21,2022-04-20,José Rodriguez,Upsell,Advertisement,Cloud,,Send proposal,Salesforce,,LATAM
+LATAM-OPP-000024,LATAM-LEAD-000054,SolucionesSmart - Opportunity,121756.0,Needs Analysis,57,2025-10-05,2024-07-19,José Rodriguez,New,,Analytics Platform,Omitted,Schedule demo,None,,LATAM
+LATAM-OPP-000025,LATAM-LEAD-000055,CloudChile - Opportunity,228119.0,Proposal,69,2025-02-09,2024-07-27,Carlos Mendez,Cross-sell,Website,,Omitted,,Oracle,,LATAM
+LATAM-OPP-000026,LATAM-LEAD-000058,InnovaColombia - Opportunity,98761.0,Prospecting,27,2024-04-05,2023-09-22,Maria Silva,Upsell,Email Marketing,Integration Tools,,Follow up,SAP,,LATAM
+LATAM-OPP-000027,LATAM-LEAD-000059,TecnoBrasil - Opportunity,,Needs Analysis,35,2024-11-29,2024-05-28,Carlos Mendez,Renewal,Partner,Cloud Suite,,Schedule demo,None,,LATAM
+LATAM-OPP-000028,LATAM-LEAD-000062,SolucionesSmart - Opportunity,338034.0,Qualification,27,2025-11-06,2023-04-03,José Rodriguez,,Trade Show,Cloud Suite,,Send proposal,Oracle,,LATAM
+LATAM-OPP-000029,LATAM-LEAD-000063,InnovaColombia - Opportunity,472578.0,Prospecting,11,2025-02-22,2024-02-26,Carlos Mendez,New,LinkedIn,cloud suite,Omitted,Send proposal,,,LATAM
+LATAM-OPP-000030,LATAM-LEAD-000066,FuturoTech - Opportunity,461564.0,Negotiation,76,2022-08-04,2022-06-02,José Rodriguez,New,Website,Analytics Platform,Commit,Follow up,,,LATAM
+LATAM-OPP-000031,LATAM-LEAD-000067,FuturoTech - Opportunity,134910.0,Closed Lost,0,2023-02-24,2022-09-08,,Renewal,Website,Analytics Platform,Commit,Schedule demo,SAP,Price,LATAM
+LATAM-OPP-000032,LATAM-LEAD-000069,FuturoTech - Opportunity,234391.0,Closed Lost,0,2022-12-02,2022-04-13,,,,Cloud Suite,Best Case,Schedule demo,Oracle,No Decision,LATAM
+LATAM-OPP-000033,LATAM-LEAD-000070,SolucionesSmart - Opportunity,293104.0,Qualification,37,2022-12-10,2022-09-14,José Rodriguez,Upsell,Partner,Cloud Suite,Best Case,,None,,LATAM
+LATAM-OPP-000034,LATAM-LEAD-000073,InnovaColombia - Opportunity,408846.0,CLOSED WON,37,2023-11-12,2023-01-02,,New Business,Advertisement,Analytics Platform,Best Case,Schedule demo,SAP,,LATAM
+LATAM-OPP-000035,LATAM-LEAD-000074,InnovaColombia - Opportunity,24305.0,Qualification,33,2023-08-15,2023-03-04,José Rodriguez,Upsell,Partner,Security Suite,Commit,Follow up,,,LATAM
+LATAM-OPP-000036,LATAM-LEAD-000077,SolucionesSmart - Opportunity,420001.0,Needs Analysis,43,2022-10-07,2022-05-18,,,Web Form,Security Suite,,,None,,LATAM
+LATAM-OPP-000037,LATAM-LEAD-000081,DigitalPeru - Opportunity,428611.0,Proposal,49,2022-10-27,2022-09-26,,Cross-sell,Website,,Pipeline,Follow up,None,,LATAM
+LATAM-OPP-000038,LATAM-LEAD-000082,TecnoBrasil - Opportunity,,Negotiation,64,2025-02-12,2024-11-30,Maria Silva,Renewal,Cold Call,cloud suite,Pipeline,Send proposal,,,LATAM
+LATAM-OPP-000039,LATAM-LEAD-000083,CloudChile - Opportunity,193788.0,Qualification,46,2023-09-22,2022-12-20,José Rodriguez,Renewal,,Cloud,Pipeline,Follow up,,,LATAM
+LATAM-OPP-000040,LATAM-LEAD-000084,FuturoTech - Opportunity,251841.0,Prospecting,22,2024-06-09,2024-03-18,Maria Silva,Upsell,Partner,Integration Tools,Best Case,,Oracle,,LATAM
+LATAM-OPP-000041,LATAM-LEAD-000085,DigitalPeru - Opportunity,239438.0,Closed Lost,0,2025-07-27,2024-08-07,José Rodriguez,Renewal,,Integration Tools,Omitted,Follow up,,Competitor,LATAM
+LATAM-OPP-000042,LATAM-LEAD-000088,DigitalPeru - Opportunity,325117.0,Negotiation,65,2024-02-23,2023-07-02,José Rodriguez,New,web form,Cloud Suite,Commit,Send proposal,None,,LATAM
+LATAM-OPP-000043,LATAM-LEAD-000089,SolucionesSmart - Opportunity,114700.0,CLOSED WON,26,2025-11-14,2023-04-11,José Rodriguez,New Business,LinkedIn,Cloud,,Send proposal,Oracle,,LATAM
+LATAM-OPP-000044,LATAM-LEAD-000094,CloudChile - Opportunity,353518.0,Closed Won,100,2025-01-08,2024-10-01,Carlos Mendez,New Business,web form,Analytics Platform,,Follow up,Oracle,,LATAM
+LATAM-OPP-000045,LATAM-LEAD-000102,CloudChile - Opportunity,290305.0,Proposal,48,2025-10-23,2023-05-23,Maria Silva,Upsell,Partner,Security Suite,Pipeline,Follow up,None,,LATAM
+LATAM-OPP-000046,LATAM-LEAD-000106,,168021.0,Needs Analysis,39,2025-08-19,2024-10-12,Maria Silva,Renewal,Website,Cloud Suite,Best Case,Follow up,Salesforce,,LATAM
+LATAM-OPP-000047,LATAM-LEAD-000108,TecnoBrasil - Opportunity,,Needs Analysis,45,2022-07-09,2022-05-31,Carlos Mendez,New Business,web form,Cloud,Omitted,Follow up,Oracle,,LATAM
+LATAM-OPP-000048,LATAM-LEAD-000111,FuturoTech - Opportunity,224361.0,Closed Lost,0,2024-06-07,2024-02-15,Carlos Mendez,Cross-sell,Web Form,Integration Tools,Best Case,,Oracle,Price,LATAM
+LATAM-OPP-000049,LATAM-LEAD-000112,CloudChile - Opportunity,152101.0,CLOSED WON,78,2023-09-25,2023-02-07,Carlos Mendez,Renewal,Web Form,,Best Case,Follow up,None,,LATAM
+LATAM-OPP-000050,LATAM-LEAD-000113,,240344.0,Closed Won,100,2022-05-12,2022-01-13,Maria Silva,,LinkedIn,Analytics Platform,Best Case,,Oracle,,LATAM
+LATAM-OPP-000051,LATAM-LEAD-000114,DataArgentina - Opportunity,63790.0,Closed Won,100,2023-10-04,2022-12-04,,Cross-sell,Email Marketing,Cloud,Commit,,,,LATAM
+LATAM-OPP-000052,LATAM-LEAD-000125,DataArgentina - Opportunity,146346.0,Needs Analysis,51,2025-11-02,2022-08-02,Maria Silva,,Advertisement,Security Suite,Pipeline,Schedule demo,None,,LATAM
+LATAM-OPP-000053,LATAM-LEAD-000126,,33422.0,Prospecting,13,2025-08-12,2024-09-16,Carlos Mendez,Cross-sell,LinkedIn,Analytics Platform,Best Case,Schedule demo,SAP,,LATAM
+LATAM-OPP-000054,LATAM-LEAD-000128,,65571.0,Closed Lost,0,2025-02-08,2024-06-01,Maria Silva,Upsell,Partner,Cloud Suite,,Send proposal,Salesforce,,LATAM
+LATAM-OPP-000055,LATAM-LEAD-000129,FuturoTech - Opportunity,213985.0,Needs Analysis,38,2024-06-24,2024-05-22,Carlos Mendez,New,Advertisement,Cloud Suite,,Follow up,SAP,,LATAM
+LATAM-OPP-000056,LATAM-LEAD-000130,DataArgentina - Opportunity,,Negotiation,62,2023-04-13,2023-03-12,José Rodriguez,Renewal,Advertisement,cloud suite,Best Case,Follow up,Oracle,,LATAM
+LATAM-OPP-000057,LATAM-LEAD-000131,InnovaColombia - Opportunity,198504.0,Proposal,47,2024-03-24,2023-05-30,,Renewal,Referral,Cloud Suite,Omitted,,SAP,,LATAM
+LATAM-OPP-000058,LATAM-LEAD-000132,FuturoTech - Opportunity,309673.0,Prospecting,16,2024-10-12,2024-07-31,Maria Silva,Upsell,Cold Call,,Omitted,,SAP,,LATAM
+LATAM-OPP-000059,LATAM-LEAD-000133,FuturoTech - Opportunity,248578.0,Qualification,47,2024-01-01,2023-07-28,Carlos Mendez,Cross-sell,Referral,Cloud Suite,Pipeline,Follow up,Oracle,,LATAM
+LATAM-OPP-000060,LATAM-LEAD-000134,CloudChile - Opportunity,372902.0,Qualification,34,2024-01-23,2023-04-28,José Rodriguez,New Business,web form,Cloud Suite,Omitted,,,,LATAM
+LATAM-OPP-000061,LATAM-LEAD-000135,,289556.0,Closed Won,100,2023-12-19,2023-10-05,,New Business,Partner,Cloud Suite,Best Case,Schedule demo,Salesforce,,LATAM
+LATAM-OPP-000062,LATAM-LEAD-000137,TecnoBrasil - Opportunity,284056.0,Needs Analysis,37,2023-04-12,2022-08-31,,Cross-sell,Web Form,Cloud Suite,Pipeline,Schedule demo,SAP,,LATAM
+LATAM-OPP-000063,LATAM-LEAD-000139,DataArgentina - Opportunity,383954.0,Needs Analysis,37,2023-03-07,2022-11-09,Carlos Mendez,New Business,Trade Show,Integration Tools,Commit,Follow up,None,,LATAM
+LATAM-OPP-000064,LATAM-LEAD-000142,FuturoTech - Opportunity,399733.0,Needs Analysis,48,2023-02-26,2022-05-11,Carlos Mendez,Upsell,,cloud suite,,Follow up,Salesforce,,LATAM
+LATAM-OPP-000065,LATAM-LEAD-000143,TecnoBrasil - Opportunity,129815.0,Closed Won,100,2023-04-05,2022-11-07,Carlos Mendez,Renewal,Trade Show,Cloud,Commit,Schedule demo,None,,LATAM
+LATAM-OPP-000066,LATAM-LEAD-000148,InnovaColombia - Opportunity,367298.0,Negotiation,73,2023-06-13,2022-06-25,Carlos Mendez,Renewal,,Cloud,Pipeline,,,,LATAM
+LATAM-OPP-000067,LATAM-LEAD-000150,CloudChile - Opportunity,201996.0,Closed Won,100,2023-02-01,2022-02-09,José Rodriguez,Renewal,Trade Show,cloud suite,Omitted,Send proposal,Oracle,,LATAM
+LATAM-OPP-000068,LATAM-LEAD-000151,CloudChile - Opportunity,348089.0,Proposal,55,2024-08-16,2024-01-15,José Rodriguez,Upsell,Referral,,Omitted,Follow up,Salesforce,,LATAM
+LATAM-OPP-000069,LATAM-LEAD-000152,,117337.0,Prospecting,12,2024-04-23,2023-05-12,Carlos Mendez,Cross-sell,Website,Security Suite,Pipeline,Follow up,None,,LATAM
+LATAM-OPP-000070,LATAM-LEAD-000153,SolucionesSmart - Opportunity,283206.0,Needs Analysis,36,2023-03-21,2022-11-23,,New,Referral,Cloud Suite,,Follow up,SAP,,LATAM
+LATAM-OPP-000071,LATAM-LEAD-000156,FuturoTech - Opportunity,260835.0,Closed Lost,0,2023-12-01,2023-08-31,Maria Silva,New,Referral,Integration Tools,,Follow up,,Competitor,LATAM
+LATAM-OPP-000072,LATAM-LEAD-000157,DataArgentina - Opportunity,466768.0,Needs Analysis,47,2022-07-26,2022-03-09,José Rodriguez,Renewal,Referral,Integration Tools,Best Case,,Salesforce,,LATAM
+LATAM-OPP-000073,LATAM-LEAD-000159,DataArgentina - Opportunity,151417.0,Negotiation,80,2023-07-25,2023-02-15,Carlos Mendez,New,Trade Show,,Best Case,Schedule demo,,,LATAM
+LATAM-OPP-000074,LATAM-LEAD-000165,DigitalPeru - Opportunity,130021.0,Prospecting,18,2022-05-01,2022-03-07,José Rodriguez,,Cold Call,,Commit,Send proposal,Salesforce,,LATAM
+LATAM-OPP-000075,LATAM-LEAD-000167,InnovaColombia - Opportunity,449798.0,Closed Won,100,2022-11-23,2022-02-16,Maria Silva,Renewal,web form,Security Suite,Omitted,Send proposal,Oracle,,LATAM
+LATAM-OPP-000076,LATAM-LEAD-000170,SolucionesSmart - Opportunity,362048.0,Qualification,43,2024-05-02,2023-12-02,Carlos Mendez,New Business,Web Form,Integration Tools,Commit,Send proposal,SAP,,LATAM
+LATAM-OPP-000077,LATAM-LEAD-000171,FuturoTech - Opportunity,141385.0,Prospecting,28,2023-07-12,2023-04-09,Maria Silva,New Business,,Integration Tools,Best Case,Follow up,None,,LATAM
+LATAM-OPP-000078,LATAM-LEAD-000181,,440665.0,Negotiation,90,2024-06-15,2024-02-20,Carlos Mendez,Renewal,,Analytics Platform,Best Case,,Salesforce,,LATAM
+LATAM-OPP-000079,LATAM-LEAD-000182,InnovaColombia - Opportunity,200232.0,Proposal,62,2024-07-11,2024-02-06,Maria Silva,Renewal,Website,Security Suite,Omitted,Send proposal,,,LATAM
+LATAM-OPP-000080,LATAM-LEAD-000185,SolucionesSmart - Opportunity,238511.0,Proposal,66,2025-02-17,2024-05-14,Carlos Mendez,New Business,Email Marketing,Analytics Platform,Commit,Follow up,,,LATAM
+LATAM-OPP-000081,LATAM-LEAD-000186,CloudChile - Opportunity,294286.0,Proposal,45,2025-06-03,2024-11-21,Maria Silva,New,,Security Suite,Omitted,,,,LATAM
+LATAM-OPP-000082,LATAM-LEAD-000189,TecnoBrasil - Opportunity,275241.0,Needs Analysis,46,2022-07-05,2022-02-05,Carlos Mendez,Renewal,Web Form,Integration Tools,Omitted,,None,,LATAM
+LATAM-OPP-000083,LATAM-LEAD-000198,TecnoBrasil - Opportunity,479701.0,Closed Lost,0,2022-09-14,2022-04-25,Carlos Mendez,,LinkedIn,Integration Tools,Best Case,Schedule demo,Oracle,No Decision,LATAM
+LATAM-OPP-000084,LATAM-LEAD-000199,TecnoBrasil - Opportunity,331510.0,Proposal,60,2025-08-08,2024-10-07,Carlos Mendez,New Business,Trade Show,Security Suite,,Send proposal,Salesforce,,LATAM
+LATAM-OPP-000085,LATAM-LEAD-000205,InnovaColombia - Opportunity,439176.0,Qualification,34,2024-06-29,2023-12-18,,Cross-sell,Cold Call,Cloud,,Schedule demo,SAP,,LATAM
+LATAM-OPP-000086,LATAM-LEAD-000206,DigitalPeru - Opportunity,484825.0,Proposal,44,2024-11-29,2024-02-29,Carlos Mendez,Upsell,Email Marketing,,Commit,Schedule demo,,,LATAM
+LATAM-OPP-000087,LATAM-LEAD-000209,,424814.0,Closed Lost,0,2025-06-02,2024-09-17,José Rodriguez,Cross-sell,Cold Call,Cloud Suite,Commit,Follow up,Salesforce,No Decision,LATAM
+LATAM-OPP-000088,LATAM-LEAD-000210,SolucionesSmart - Opportunity,354165.0,Closed Won,100,2025-01-02,2024-06-25,Maria Silva,New Business,Web Form,Cloud Suite,Best Case,Follow up,Salesforce,,LATAM
+LATAM-OPP-000089,LATAM-LEAD-000212,CloudChile - Opportunity,334853.0,Prospecting,22,2025-02-01,2024-07-03,José Rodriguez,New Business,Web Form,Cloud Suite,Pipeline,Follow up,Salesforce,,LATAM
+LATAM-OPP-000090,LATAM-LEAD-000228,InnovaColombia - Opportunity,137078.0,Negotiation,85,2025-10-06,2023-05-03,Maria Silva,Cross-sell,Partner,Integration Tools,Best Case,Follow up,None,,LATAM
+LATAM-OPP-000091,LATAM-LEAD-000231,FuturoTech - Opportunity,283053.0,Qualification,35,2024-06-12,2023-10-30,José Rodriguez,New Business,,,Pipeline,Follow up,,,LATAM
+LATAM-OPP-000092,LATAM-LEAD-000232,InnovaColombia - Opportunity,62068.0,Prospecting,10,2025-06-23,2024-09-19,,Upsell,Referral,,Pipeline,Send proposal,Oracle,,LATAM
+LATAM-OPP-000093,LATAM-LEAD-000234,FuturoTech - Opportunity,215764.0,Qualification,34,2023-06-29,2022-10-28,Maria Silva,Cross-sell,Website,Security Suite,Pipeline,Send proposal,Oracle,,LATAM
+LATAM-OPP-000094,LATAM-LEAD-000237,SolucionesSmart - Opportunity,453882.0,Qualification,45,2025-04-14,2024-05-15,Maria Silva,,Advertisement,,Commit,Schedule demo,SAP,,LATAM
+LATAM-OPP-000095,LATAM-LEAD-000240,DataArgentina - Opportunity,481834.0,Negotiation,87,2024-01-26,2023-06-03,Maria Silva,New,Trade Show,Cloud,,,,,LATAM
+LATAM-OPP-000096,LATAM-LEAD-000242,FuturoTech - Opportunity,354217.0,Proposal,69,2025-01-18,2024-08-01,José Rodriguez,New Business,web form,Cloud Suite,,,Salesforce,,LATAM
+LATAM-OPP-000097,LATAM-LEAD-000244,SolucionesSmart - Opportunity,165752.0,,57,2024-01-18,2023-09-13,Maria Silva,Renewal,Trade Show,Analytics Platform,Commit,Send proposal,Salesforce,,LATAM
+LATAM-OPP-000098,LATAM-LEAD-000245,FuturoTech - Opportunity,4328389.0,CLOSED WON,74,2022-11-26,2022-07-11,,Renewal,Web Form,,Commit,Follow up,None,,LATAM
+LATAM-OPP-000099,LATAM-LEAD-000246,DataArgentina - Opportunity,63187.0,CLOSED WON,25,2022-07-01,2022-01-08,José Rodriguez,New Business,Website,cloud suite,,Follow up,None,,LATAM
+LATAM-OPP-000100,LATAM-LEAD-000247,DigitalPeru - Opportunity,335264.0,Needs Analysis,43,2024-07-03,2023-11-17,,Upsell,LinkedIn,cloud suite,Commit,Follow up,Oracle,,LATAM
+LATAM-OPP-000101,LATAM-LEAD-000256,TecnoBrasil - Opportunity,,Closed Won,100,2025-08-11,2024-10-15,Maria Silva,Renewal,Partner,Cloud,Commit,,Salesforce,,LATAM
+LATAM-OPP-000102,LATAM-LEAD-000258,,147974.0,,59,2025-09-25,2024-10-05,,Renewal,Website,Security Suite,Commit,Send proposal,,,LATAM
+LATAM-OPP-000103,LATAM-LEAD-000262,CloudChile - Opportunity,193931.0,Negotiation,75,2024-07-28,2023-10-03,José Rodriguez,Renewal,Referral,Integration Tools,Commit,Schedule demo,,,LATAM
+LATAM-OPP-000104,LATAM-LEAD-000265,DigitalPeru - Opportunity,229566.0,Proposal,45,2023-07-03,2022-12-07,,,Web Form,Integration Tools,,Send proposal,Oracle,,LATAM
+LATAM-OPP-000105,LATAM-LEAD-000267,InnovaColombia - Opportunity,108115.0,Prospecting,19,2025-01-25,2024-03-08,Maria Silva,Cross-sell,web form,Security Suite,Pipeline,Schedule demo,Salesforce,,LATAM
+LATAM-OPP-000106,LATAM-LEAD-000271,DataArgentina - Opportunity,326479.0,Closed Won,100,2024-06-08,2023-09-16,Carlos Mendez,Cross-sell,Partner,Security Suite,,Follow up,Salesforce,,LATAM
+LATAM-OPP-000107,LATAM-LEAD-000275,CloudChile - Opportunity,,Needs Analysis,36,2025-03-07,2024-04-15,Maria Silva,,Trade Show,cloud suite,Best Case,Send proposal,None,,LATAM
+LATAM-OPP-000108,LATAM-LEAD-000277,InnovaColombia - Opportunity,282820.0,Negotiation,77,2025-09-13,2022-01-05,Maria Silva,Renewal,Advertisement,cloud suite,Best Case,Schedule demo,None,,LATAM
+LATAM-OPP-000109,LATAM-LEAD-000280,TecnoBrasil - Opportunity,192564.0,Qualification,31,2023-01-29,2022-02-09,Maria Silva,New,Advertisement,Analytics Platform,Omitted,,None,,LATAM
+LATAM-OPP-000110,LATAM-LEAD-000283,SolucionesSmart - Opportunity,466209.0,Proposal,67,2025-08-07,2024-11-01,,,Partner,Cloud,Pipeline,Schedule demo,SAP,,LATAM
+LATAM-OPP-000111,LATAM-LEAD-000291,DigitalPeru - Opportunity,459138.0,Needs Analysis,44,2022-07-20,2022-05-26,José Rodriguez,New Business,Trade Show,Cloud Suite,Pipeline,,Salesforce,,LATAM
+LATAM-OPP-000112,LATAM-LEAD-000303,DataArgentina - Opportunity,426775.0,Needs Analysis,48,2022-12-22,2022-08-01,José Rodriguez,New Business,Referral,Cloud,Best Case,Follow up,Oracle,,LATAM
+LATAM-OPP-000113,LATAM-LEAD-000305,FuturoTech - Opportunity,,Qualification,41,2022-06-26,2022-02-04,Carlos Mendez,New,Referral,,Omitted,Follow up,,,LATAM
+LATAM-OPP-000114,LATAM-LEAD-000306,DigitalPeru - Opportunity,19558.0,CLOSED WON,33,2025-10-07,2024-11-07,Carlos Mendez,New Business,Web Form,Cloud Suite,Commit,Send proposal,None,,LATAM
+LATAM-OPP-000115,LATAM-LEAD-000308,CloudChile - Opportunity,87870.0,,37,2025-01-25,2024-02-27,,New Business,Cold Call,,Commit,Schedule demo,SAP,,LATAM
+LATAM-OPP-000116,LATAM-LEAD-000309,,442539.0,,41,2023-01-16,2022-07-09,Carlos Mendez,New,Referral,Cloud,Commit,,Salesforce,,LATAM
+LATAM-OPP-000117,LATAM-LEAD-000312,FuturoTech - Opportunity,319795.0,Needs Analysis,48,2025-03-25,2024-09-06,José Rodriguez,Renewal,Email Marketing,Cloud Suite,Commit,Send proposal,Oracle,,LATAM
+LATAM-OPP-000118,LATAM-LEAD-000316,CloudChile - Opportunity,207789.0,Negotiation,75,2023-04-19,2023-01-25,Maria Silva,Renewal,Advertisement,Cloud Suite,Pipeline,Follow up,,,LATAM
+LATAM-OPP-000119,LATAM-LEAD-000319,FuturoTech - Opportunity,198511.0,Qualification,21,2024-06-22,2023-10-31,,Cross-sell,Web Form,Security Suite,Commit,Follow up,Salesforce,,LATAM
+LATAM-OPP-000120,LATAM-LEAD-000322,DataArgentina - Opportunity,332224.0,Negotiation,76,2023-12-29,2023-11-07,Carlos Mendez,Upsell,Advertisement,,,,Oracle,,LATAM
+LATAM-OPP-000121,LATAM-LEAD-000323,DataArgentina - Opportunity,237912.0,Negotiation,63,2023-12-09,2023-11-07,,New,,Cloud Suite,Omitted,Schedule demo,Salesforce,,LATAM
+LATAM-OPP-000122,LATAM-LEAD-000324,CloudChile - Opportunity,120324.0,Qualification,29,2023-06-18,2023-03-27,José Rodriguez,Cross-sell,Referral,cloud suite,Omitted,Schedule demo,SAP,,LATAM
+LATAM-OPP-000123,LATAM-LEAD-000328,InnovaColombia - Opportunity,,Closed Lost,0,2024-05-31,2023-09-02,José Rodriguez,Upsell,,Security Suite,Commit,Follow up,None,,LATAM
+LATAM-OPP-000124,LATAM-LEAD-000330,SolucionesSmart - Opportunity,257821.0,Closed Lost,0,2023-02-20,2022-09-24,José Rodriguez,,Referral,Security Suite,Best Case,Schedule demo,,Competitor,LATAM
+LATAM-OPP-000125,LATAM-LEAD-000331,TecnoBrasil - Opportunity,97644.0,Needs Analysis,41,2023-07-09,2023-05-13,Carlos Mendez,Upsell,Website,cloud suite,Pipeline,Follow up,,,LATAM
+LATAM-OPP-000126,LATAM-LEAD-000333,DigitalPeru - Opportunity,365748.0,Negotiation,81,2023-11-12,2023-03-20,Carlos Mendez,,LinkedIn,Integration Tools,Pipeline,Schedule demo,,,LATAM
+LATAM-OPP-000127,LATAM-LEAD-000339,DigitalPeru - Opportunity,436909.0,Needs Analysis,57,2023-02-23,2022-10-01,José Rodriguez,,Email Marketing,Cloud,Pipeline,Follow up,Salesforce,,LATAM
+LATAM-OPP-000128,LATAM-LEAD-000340,DigitalPeru - Opportunity,233376.0,Closed Lost,0,2022-06-26,2022-04-30,Maria Silva,Cross-sell,LinkedIn,cloud suite,Omitted,,Oracle,Competitor,LATAM
+LATAM-OPP-000129,LATAM-LEAD-000341,DigitalPeru - Opportunity,462751.0,Needs Analysis,54,2025-01-08,2024-08-27,,New Business,,Analytics Platform,Commit,Schedule demo,Salesforce,,LATAM
+LATAM-OPP-000130,LATAM-LEAD-000342,DigitalPeru - Opportunity,174142.0,Prospecting,26,2023-05-26,2022-12-06,Maria Silva,New,Email Marketing,cloud suite,Omitted,Schedule demo,,,LATAM
+LATAM-OPP-000131,LATAM-LEAD-000346,,206228.0,CLOSED WON,59,2023-12-26,2023-01-05,José Rodriguez,New,,cloud suite,Best Case,Schedule demo,SAP,,LATAM
+LATAM-OPP-000132,LATAM-LEAD-000349,DigitalPeru - Opportunity,282750.0,Needs Analysis,117,2024-08-20,2023-09-03,Carlos Mendez,,,Security Suite,Omitted,Follow up,SAP,,LATAM
+LATAM-OPP-000133,LATAM-LEAD-000350,CloudChile - Opportunity,5124.0,,20,2024-06-18,2023-11-25,Maria Silva,New Business,Email Marketing,,Best Case,Follow up,Salesforce,,LATAM
+LATAM-OPP-000134,LATAM-LEAD-000353,CloudChile - Opportunity,66376.0,Closed Won,100,2025-02-26,2024-08-04,Carlos Mendez,New,Email Marketing,Cloud Suite,Best Case,Schedule demo,,,LATAM
+LATAM-OPP-000135,LATAM-LEAD-000356,TecnoBrasil - Opportunity,193144.0,Qualification,29,2022-09-13,2022-02-04,,,web form,cloud suite,Best Case,Send proposal,Oracle,,LATAM
+LATAM-OPP-000136,LATAM-LEAD-000357,InnovaColombia - Opportunity,205631.0,Needs Analysis,51,2024-10-08,2024-03-03,Maria Silva,,Web Form,Integration Tools,Pipeline,Follow up,None,,LATAM
+LATAM-OPP-000137,LATAM-LEAD-000358,DataArgentina - Opportunity,82967.0,Prospecting,13,2023-03-20,2023-01-14,,Renewal,web form,Security Suite,Best Case,,SAP,,LATAM
+LATAM-OPP-000138,LATAM-LEAD-000363,FuturoTech - Opportunity,368510.0,Closed Lost,0,2024-01-23,2023-12-08,José Rodriguez,New Business,Trade Show,Integration Tools,Best Case,Schedule demo,,,LATAM
+LATAM-OPP-000139,LATAM-LEAD-000365,TecnoBrasil - Opportunity,414498.0,CLOSED WON,72,2025-03-02,2024-05-11,Maria Silva,New Business,Website,Cloud,Omitted,Schedule demo,Oracle,,LATAM
+LATAM-OPP-000140,LATAM-LEAD-000366,DigitalPeru - Opportunity,4264058.0,Needs Analysis,48,2024-12-28,2023-12-31,Carlos Mendez,New,Cold Call,Integration Tools,Commit,,,,LATAM
+LATAM-OPP-000141,LATAM-LEAD-000371,DigitalPeru - Opportunity,268960.0,Closed Lost,0,2023-09-02,2023-07-12,,New Business,Referral,Cloud,,Send proposal,SAP,,LATAM
+LATAM-OPP-000142,LATAM-LEAD-000375,DataArgentina - Opportunity,279537.0,CLOSED WON,61,2024-12-30,2024-05-03,,Renewal,,,Best Case,Schedule demo,None,,LATAM
+LATAM-OPP-000143,LATAM-LEAD-000376,,,Closed Lost,0,2022-07-18,2022-01-10,Maria Silva,Cross-sell,Cold Call,Cloud,Commit,,SAP,Price,LATAM
+LATAM-OPP-000144,LATAM-LEAD-000378,DigitalPeru - Opportunity,317886.0,Qualification,28,2024-12-20,2024-10-30,Maria Silva,Cross-sell,,,Pipeline,Follow up,SAP,,LATAM
+LATAM-OPP-000145,LATAM-LEAD-000381,InnovaColombia - Opportunity,293872.0,,44,2023-10-24,2023-02-02,Maria Silva,Renewal,Web Form,Analytics Platform,Pipeline,Send proposal,Salesforce,,LATAM
+LATAM-OPP-000146,LATAM-LEAD-000386,,226436.0,,63,2025-10-13,2023-08-28,Carlos Mendez,New,LinkedIn,Integration Tools,,Send proposal,SAP,,LATAM
+LATAM-OPP-000147,LATAM-LEAD-000388,CloudChile - Opportunity,71439.0,Proposal,50,2025-04-16,2024-04-26,,Upsell,Referral,Security Suite,Best Case,Schedule demo,None,,LATAM
+LATAM-OPP-000148,LATAM-LEAD-000390,InnovaColombia - Opportunity,146610.0,Closed Lost,0,2024-08-18,2024-06-30,José Rodriguez,New,web form,Integration Tools,Omitted,,Oracle,Price,LATAM
+LATAM-OPP-000149,LATAM-LEAD-000391,FuturoTech - Opportunity,235965.0,Prospecting,22,2024-10-09,2023-11-07,,,Website,Security Suite,Omitted,Follow up,Oracle,,LATAM
+LATAM-OPP-000150,LATAM-LEAD-000392,DataArgentina - Opportunity,162652.0,Closed Won,100,2024-08-17,2023-11-24,Maria Silva,Upsell,Partner,Integration Tools,,Follow up,Salesforce,,LATAM
+LATAM-OPP-000151,LATAM-LEAD-000395,TecnoBrasil - Opportunity,410545.0,Prospecting,17,2023-11-26,2023-06-28,Maria Silva,,Website,cloud suite,,,Oracle,,LATAM
+LATAM-OPP-000152,LATAM-LEAD-000396,DataArgentina - Opportunity,267664.0,Negotiation,72,2025-04-11,2024-06-02,José Rodriguez,Upsell,Advertisement,,Pipeline,Follow up,,,LATAM
+LATAM-OPP-000153,LATAM-LEAD-000401,CloudChile - Opportunity,333674.0,Needs Analysis,58,2024-02-29,2023-07-15,Carlos Mendez,,Partner,Cloud Suite,Commit,Schedule demo,,,LATAM
+LATAM-OPP-000154,LATAM-LEAD-000402,DigitalPeru - Opportunity,,Qualification,38,2025-12-03,2022-11-02,,,Trade Show,cloud suite,Omitted,Send proposal,None,,LATAM
+LATAM-OPP-000155,LATAM-LEAD-000406,DigitalPeru - Opportunity,7227.0,Needs Analysis,45,2022-10-27,2022-06-18,Maria Silva,Upsell,Referral,Integration Tools,Omitted,Follow up,None,,LATAM
+LATAM-OPP-000156,LATAM-LEAD-000410,DigitalPeru - Opportunity,,Qualification,45,2025-03-30,2024-06-20,José Rodriguez,New Business,Website,Analytics Platform,Commit,Schedule demo,Salesforce,,LATAM
+LATAM-OPP-000157,LATAM-LEAD-000412,DigitalPeru - Opportunity,245324.0,Needs Analysis,55,2023-07-08,2022-12-08,José Rodriguez,Upsell,Trade Show,Integration Tools,Omitted,Follow up,Salesforce,,LATAM
+LATAM-OPP-000158,LATAM-LEAD-000416,CloudChile - Opportunity,372588.0,Needs Analysis,52,2025-02-03,2024-04-27,Maria Silva,New Business,Trade Show,,Pipeline,Follow up,SAP,,LATAM
+LATAM-OPP-000159,LATAM-LEAD-000420,SolucionesSmart - Opportunity,445677.0,,62,2025-03-01,2024-11-23,,Renewal,Trade Show,Security Suite,Commit,Send proposal,Oracle,,LATAM
+LATAM-OPP-000160,LATAM-LEAD-000421,DataArgentina - Opportunity,167048.0,Needs Analysis,57,2022-11-11,2022-02-13,Maria Silva,Cross-sell,Website,,Omitted,Follow up,,,LATAM
+LATAM-OPP-000161,LATAM-LEAD-000422,CloudChile - Opportunity,410564.0,,22,2024-12-31,2024-04-19,José Rodriguez,Upsell,web form,Cloud,Best Case,Send proposal,Salesforce,,LATAM
+LATAM-OPP-000162,LATAM-LEAD-000425,TecnoBrasil - Opportunity,72463.0,Negotiation,90,2025-01-24,2024-08-02,Carlos Mendez,New Business,Email Marketing,,Commit,,,,LATAM
+LATAM-OPP-000163,LATAM-LEAD-000429,DigitalPeru - Opportunity,449920.0,Qualification,33,2023-01-15,2022-08-24,José Rodriguez,Cross-sell,Web Form,,Omitted,Schedule demo,,,LATAM
+LATAM-OPP-000164,LATAM-LEAD-000430,,118484.0,Closed Lost,0,2025-10-06,2024-10-06,José Rodriguez,Cross-sell,web form,Cloud Suite,Omitted,Send proposal,Salesforce,Competitor,LATAM
+LATAM-OPP-000165,LATAM-LEAD-000432,TecnoBrasil - Opportunity,421362.0,Qualification,45,2023-03-04,2022-04-25,Maria Silva,Renewal,Website,Integration Tools,Pipeline,,Salesforce,,LATAM
+LATAM-OPP-000166,LATAM-LEAD-000433,TecnoBrasil - Opportunity,330958.0,Prospecting,30,2024-02-01,2023-08-25,Maria Silva,Upsell,Partner,Security Suite,Omitted,Send proposal,Salesforce,,LATAM
+LATAM-OPP-000167,LATAM-LEAD-000434,InnovaColombia - Opportunity,32565.0,CLOSED WON,48,2023-10-11,2022-12-21,José Rodriguez,Upsell,Website,Analytics Platform,,,Oracle,,LATAM
+LATAM-OPP-000168,LATAM-LEAD-000437,TecnoBrasil - Opportunity,162570.0,Qualification,46,2024-12-25,2024-02-08,Maria Silva,Renewal,Cold Call,,,Schedule demo,Salesforce,,LATAM
+LATAM-OPP-000169,LATAM-LEAD-000441,,321291.0,Closed Won,100,2022-10-15,2022-03-30,Maria Silva,Upsell,LinkedIn,Cloud Suite,Omitted,Send proposal,Salesforce,,LATAM
+LATAM-OPP-000170,LATAM-LEAD-000442,,433491.0,Proposal,67,2024-04-17,2024-01-21,Carlos Mendez,New Business,Cold Call,Integration Tools,,,SAP,,LATAM
+LATAM-OPP-000171,LATAM-LEAD-000443,InnovaColombia - Opportunity,435799.0,Closed Won,100,2025-03-31,2024-04-02,Carlos Mendez,New,Partner,Analytics Platform,Pipeline,Schedule demo,SAP,,LATAM
+LATAM-OPP-000172,LATAM-LEAD-000444,TecnoBrasil - Opportunity,205842.0,CLOSED WON,30,2025-03-02,2024-05-22,,Upsell,Cold Call,Integration Tools,,,SAP,,LATAM
+LATAM-OPP-000173,LATAM-LEAD-000448,InnovaColombia - Opportunity,187406.0,Qualification,42,2024-04-28,2024-02-09,José Rodriguez,Cross-sell,Website,Cloud,Commit,Schedule demo,,,LATAM
+LATAM-OPP-000174,LATAM-LEAD-000449,CloudChile - Opportunity,170451.0,Closed Lost,0,2024-10-20,2024-07-10,,Renewal,Website,Cloud Suite,Commit,,Oracle,,LATAM
+LATAM-OPP-000175,LATAM-LEAD-000450,FuturoTech - Opportunity,35823.0,Prospecting,13,2023-12-10,2022-12-11,,Upsell,Web Form,Integration Tools,Commit,Schedule demo,SAP,,LATAM
+LATAM-OPP-000176,LATAM-LEAD-000452,FuturoTech - Opportunity,483058.0,Closed Won,100,2022-07-22,2022-02-04,Maria Silva,Cross-sell,Web Form,cloud suite,Pipeline,Schedule demo,Oracle,,LATAM
+LATAM-OPP-000177,LATAM-LEAD-000453,InnovaColombia - Opportunity,203437.0,Closed Won,100,2025-01-28,2024-03-03,,Renewal,Trade Show,Cloud Suite,Pipeline,Follow up,Salesforce,,LATAM
+LATAM-OPP-000178,LATAM-LEAD-000456,SolucionesSmart - Opportunity,420379.0,Closed Won,100,2022-08-16,2022-05-18,José Rodriguez,New,Advertisement,,Pipeline,,Salesforce,,LATAM
+LATAM-OPP-000179,LATAM-LEAD-000457,TecnoBrasil - Opportunity,444066.0,Closed Won,100,2025-03-18,2024-05-22,Carlos Mendez,New,Partner,Analytics Platform,,Send proposal,Salesforce,,LATAM
+LATAM-OPP-000180,LATAM-LEAD-000458,TecnoBrasil - Opportunity,459901.0,Closed Lost,0,2023-10-23,2023-08-25,José Rodriguez,,Web Form,Security Suite,Pipeline,Schedule demo,None,,LATAM
+LATAM-OPP-000181,LATAM-LEAD-000460,CloudChile - Opportunity,59478.0,Closed Lost,0,2025-06-14,2024-10-12,Carlos Mendez,Upsell,Cold Call,Cloud,,Send proposal,Salesforce,,LATAM
+LATAM-OPP-000182,LATAM-LEAD-009999,Orphan Opportunity,80917.0,,39,2026-05-15,2025-12-16,Maria Silva,,,Cloud,Pipeline,Follow up,,,LATAM
+LATAM-OPP-000183,LATAM-LEAD-010000,Orphan Opportunity,43549.0,Proposal,49,2026-04-14,2025-12-16,Maria Silva,,Partner,Cloud,Best Case,Follow up,,,LATAM
+LATAM-OPP-000184,LATAM-LEAD-010001,Orphan Opportunity,33195.0,CLOSED WON,36,2026-05-23,2025-12-16,Carlos Mendez,New,LinkedIn,Cloud Suite,Pipeline,Follow up,,,LATAM
+LATAM-OPP-000185,LATAM-LEAD-010002,Orphan Opportunity,84695.0,CLOSED WON,24,2026-04-08,2025-12-16,Maria Silva,Renewal,Email Marketing,Cloud,Best Case,Follow up,,,LATAM
+LATAM-OPP-000186,LATAM-LEAD-010003,Orphan Opportunity,12091.0,Qualification,71,2026-03-05,2025-12-16,Carlos Mendez,Renewal,Advertisement,cloud suite,Pipeline,Follow up,,,LATAM
+LATAM-OPP-000187,LATAM-LEAD-010004,Orphan Opportunity,96228.0,Qualification,24,2026-04-08,2025-12-16,Maria Silva,Renewal,,Cloud Suite,Best Case,Follow up,,,LATAM
+LATAM-OPP-000188,LATAM-LEAD-010005,Orphan Opportunity,12328.0,,30,2026-05-31,2025-12-16,Carlos Mendez,Cross-sell,Partner,Security Suite,Pipeline,Follow up,,,LATAM
+LATAM-OPP-000189,LATAM-LEAD-010006,Orphan Opportunity,93979.0,Proposal,48,2026-02-04,2025-12-16,Maria Silva,Cross-sell,Web Form,Cloud,Best Case,Follow up,,,LATAM
+LATAM-OPP-000190,LATAM-LEAD-010007,Orphan Opportunity,97832.0,Needs Analysis,62,2026-03-11,2025-12-16,Carlos Mendez,Cross-sell,web form,Integration Tools,Pipeline,Follow up,,,LATAM

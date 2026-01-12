@@ -1,0 +1,269 @@
+OpportunityID,LeadID,OpportunityName,Amount,Stage,Probability,ExpectedCloseDate,CreatedDate,AccountOwner,SalesType,LeadSourceOpp,ProductLine,ForecastCategory,NextStep,CompetitorInfo,LossReason,Region
+NA-OPP-000001,NA-LEAD-000001,TechCorp - Opportunity,324716.0,,71,2024-03-17,2023-07-18,Bob Smith,Cross-sell,,Analytics Platform,,Send proposal,Salesforce,,North America
+NA-OPP-000002,NA-LEAD-000006,InnovateLab - Opportunity,240549.0,closed won,100,2023-10-23,2023-04-06,,Cross-sell,LinkedIn,Integration Tools,Commit,,,,North America
+NA-OPP-000003,NA-LEAD-000010,DataInc - Opportunity,98031.0,closed won,100,2023-01-17,2022-10-03,Dave Brown,New,Paid Ads,Analytics Platform,,Schedule demo,,,North America
+NA-OPP-000004,NA-LEAD-000017,FutureTech - Opportunity,130291.0,Proposal,55,2025-07-01,2024-09-03,Dave Brown,Cross-sell,LinkedIn,Integration Tools,Commit,Follow up,Oracle,,North America
+NA-OPP-000005,NA-LEAD-000018,SmartSolutions - Opportunity,,Needs Analysis,50,2023-11-01,2023-03-10,,Upsell,Trade Show,Analytics,Pipeline,,Oracle,,North America
+NA-OPP-000006,NA-LEAD-000020,CloudSystems - Opportunity,77060.0,Needs Analysis,51,2025-06-08,2024-06-10,Dave Brown,Cross-sell,REFERRAL,Cloud Suite,Commit,Follow up,None,,North America
+NA-OPP-000007,NA-LEAD-000031,TechCorp - Opportunity,414455.0,closed won,100,2024-10-16,2024-03-21,Bob Smith,,Referral,Analytics Platform,Commit,,SAP,,North America
+NA-OPP-000008,NA-LEAD-000034,FutureTech - Opportunity,329482.0,closed won,100,2024-01-04,2023-07-27,Bob Smith,Upsell,web form,Analytics Platform,Omitted,,None,,North America
+NA-OPP-000009,NA-LEAD-000041,TechCorp - Opportunity,3401784.0,,70,2023-12-05,2023-10-28,Dave Brown,New,web form,cloud suite,Commit,Send proposal,SAP,,North America
+NA-OPP-000010,NA-LEAD-000045,InnovateLab - Opportunity,5732.0,Needs Analysis,55,2023-02-25,2022-10-09,,Upsell,Email Marketing,cloud suite,Commit,Send proposal,,,North America
+NA-OPP-000011,NA-LEAD-000048,FutureTech - Opportunity,45665.0,,25,2025-03-22,2024-07-25,Bob Smith,Renewal,Cold Call,Cloud,Commit,Follow up,SAP,,North America
+NA-OPP-000012,NA-LEAD-000049,TechCorp - Opportunity,,Needs Analysis,57,2024-06-07,2024-01-02,Alice Johnson,Renewal,Referral,cloud suite,Best Case,Follow up,Oracle,,North America
+NA-OPP-000013,NA-LEAD-000050,SmartSolutions - Opportunity,486467.0,Closed Lost,0,2022-09-12,2022-04-08,,,Referral,Cloud Suite,Omitted,Follow up,Salesforce,,North America
+NA-OPP-000014,NA-LEAD-000051,GlobalEnterprises - Opportunity,,Needs Analysis,35,2024-02-23,2023-12-21,Alice Johnson,,Email Marketing,,Commit,Schedule demo,,,North America
+NA-OPP-000015,NA-LEAD-000056,GlobalEnterprises - Opportunity,105529.0,Closed Won,100,2022-11-11,2022-09-08,Carol White,Renewal,Email Marketing,Analytics Platform,Omitted,Schedule demo,SAP,,North America
+NA-OPP-000016,NA-LEAD-000057,SmartSolutions - Opportunity,36218.0,,61,2023-04-08,2022-04-10,,,web form,Cloud,,Schedule demo,SAP,,North America
+NA-OPP-000017,NA-LEAD-000058,SmartSolutions - Opportunity,118455.0,Prospecting,21,2022-11-24,2022-10-23,Bob Smith,New,Web Form,Analytics Platform,Omitted,Follow up,Salesforce,,North America
+NA-OPP-000018,NA-LEAD-000060,GlobalEnterprises - Opportunity,372966.0,,24,2024-05-26,2024-02-11,,New Business,LinkedIn,,Omitted,Follow up,,,North America
+NA-OPP-000019,NA-LEAD-000069,TechCorp - Opportunity,148188.0,Closed Lost,0,2022-08-18,2022-05-30,Bob Smith,New Business,,Analytics,Best Case,Send proposal,Salesforce,No Decision,North America
+NA-OPP-000020,NA-LEAD-000072,FutureTech - Opportunity,470154.0,,66,2023-06-10,2023-01-03,Dave Brown,Renewal,Referral,Integration Tools,Best Case,Schedule demo,Oracle,,North America
+NA-OPP-000021,NA-LEAD-000073,DataInc - Opportunity,286488.0,Negotiation,79,2023-03-18,2022-03-29,,New,,cloud suite,Omitted,,None,,North America
+NA-OPP-000022,NA-LEAD-000074,DataInc - Opportunity,474599.0,,73,2024-07-24,2024-06-14,Bob Smith,new business,Web Form,Analytics,Pipeline,Schedule demo,,,North America
+NA-OPP-000023,NA-LEAD-000075,SmartSolutions - Opportunity,80833.0,closed won,100,2024-05-04,2023-07-07,,new business,LinkedIn,Security Suite,Omitted,,Oracle,,North America
+NA-OPP-000024,NA-LEAD-000078,,120097.0,Closed Won,100,2023-06-09,2022-06-24,Bob Smith,New,Paid Ads,,,Schedule demo,None,,North America
+NA-OPP-000025,NA-LEAD-000079,DataInc - Opportunity,346161.0,Prospecting,21,2022-12-28,2022-10-18,,,Cold Call,Analytics Platform,Best Case,Follow up,Oracle,,North America
+NA-OPP-000026,NA-LEAD-000080,FutureTech - Opportunity,2968315.0,closed won,100,2025-02-03,2024-03-21,Carol White,new business,web form,,Best Case,Follow up,None,,North America
+NA-OPP-000027,NA-LEAD-000081,DataInc - Opportunity,222371.0,Closed Lost,0,2023-03-12,2022-10-02,,Cross-sell,Email Marketing,Cloud,Best Case,Send proposal,SAP,No Decision,North America
+NA-OPP-000028,NA-LEAD-000083,DigitalFirst - Opportunity,437258.0,Proposal,43,2022-06-02,2022-03-08,Alice Johnson,New Business,web form,,Omitted,Follow up,SAP,,North America
+NA-OPP-000029,NA-LEAD-000085,DataInc - Opportunity,427936.0,Proposal,8,2025-05-04,2024-07-27,Bob Smith,Upsell,LinkedIn,Cloud,Best Case,,None,,North America
+NA-OPP-000030,NA-LEAD-000088,DigitalFirst - Opportunity,25729.0,closed won,100,2023-04-17,2022-06-22,,new business,web form,Integration Tools,Commit,Follow up,None,,North America
+NA-OPP-000031,NA-LEAD-000090,FutureTech - Opportunity,435494.0,Closed Won,100,2023-07-09,2023-05-04,Alice Johnson,Cross-sell,web form,Integration Tools,Best Case,Schedule demo,Salesforce,,North America
+NA-OPP-000032,NA-LEAD-000091,DataInc - Opportunity,131215.0,,72,2024-12-30,2024-10-13,Alice Johnson,Upsell,Partner,Cloud,,Follow up,Salesforce,,North America
+NA-OPP-000033,NA-LEAD-000095,TechCorp - Opportunity,267563.0,Prospecting,12,2024-03-05,2023-03-17,,Renewal,REFERRAL,Integration Tools,Best Case,Schedule demo,SAP,,North America
+NA-OPP-000034,NA-LEAD-000097,FutureTech - Opportunity,3788121.0,closed won,100,2025-03-13,2024-09-08,Bob Smith,New Business,Web Form,,Commit,Schedule demo,Salesforce,,North America
+NA-OPP-000035,NA-LEAD-000099,SmartSolutions - Opportunity,6019.0,Negotiation,70,2023-07-03,2022-12-30,Dave Brown,New,Cold Call,Security Suite,Best Case,Follow up,None,,North America
+NA-OPP-000036,NA-LEAD-000101,DataInc - Opportunity,49609.0,closed won,100,2022-09-22,2022-01-03,Dave Brown,Renewal,Paid Ads,cloud suite,Commit,Schedule demo,Oracle,,North America
+NA-OPP-000037,NA-LEAD-000106,FutureTech - Opportunity,72524.0,closed won,100,2022-09-09,2022-03-21,,Renewal,LinkedIn,Cloud Suite,Commit,Follow up,Salesforce,,North America
+NA-OPP-000038,NA-LEAD-000108,CloudSystems - Opportunity,267821.0,Closed Won,100,2024-10-13,2024-08-29,Dave Brown,,REFERRAL,,Commit,Schedule demo,Oracle,,North America
+NA-OPP-000039,NA-LEAD-000109,DigitalFirst - Opportunity,258996.0,Qualification,44,2025-11-10,2024-05-17,Carol White,,LinkedIn,Integration Tools,,Send proposal,None,,North America
+NA-OPP-000040,NA-LEAD-000116,DataInc - Opportunity,,Negotiation,61,2022-06-11,2022-04-04,Bob Smith,Renewal,,Cloud,Best Case,Schedule demo,SAP,,North America
+NA-OPP-000041,NA-LEAD-000117,GlobalEnterprises - Opportunity,401236.0,Closed Won,100,2023-09-05,2023-01-07,Dave Brown,Renewal,,Security Suite,Best Case,Schedule demo,Salesforce,,North America
+NA-OPP-000042,NA-LEAD-000118,,361063.0,closed won,100,2022-12-14,2022-04-22,Alice Johnson,new business,Paid Ads,Analytics,Omitted,Schedule demo,SAP,,North America
+NA-OPP-000043,NA-LEAD-000122,,219357.0,Negotiation,69,2024-08-02,2023-10-23,Carol White,,,,Omitted,Schedule demo,Salesforce,,North America
+NA-OPP-000044,NA-LEAD-000124,InnovateLab - Opportunity,249423.0,Qualification,30,2023-03-17,2023-02-01,Bob Smith,Cross-sell,Partner,,,,SAP,,North America
+NA-OPP-000045,NA-LEAD-000125,DataInc - Opportunity,340065.0,Prospecting,18,2025-09-28,2024-10-31,Carol White,Renewal,web form,Security Suite,Commit,,Salesforce,,North America
+NA-OPP-000046,NA-LEAD-000133,DataInc - Opportunity,492111.0,,25,2023-11-15,2023-04-17,Carol White,New Business,,Analytics Platform,Best Case,,SAP,,North America
+NA-OPP-000047,NA-LEAD-000134,GlobalEnterprises - Opportunity,,closed won,100,2023-09-12,2022-12-16,Carol White,New Business,Email Marketing,Integration Tools,Omitted,Send proposal,SAP,,North America
+NA-OPP-000048,NA-LEAD-000137,CloudSystems - Opportunity,43293.0,Needs Analysis,38,2025-12-02,2022-07-25,Bob Smith,new business,Partner,Integration Tools,Pipeline,Schedule demo,SAP,,North America
+NA-OPP-000049,NA-LEAD-000138,GlobalEnterprises - Opportunity,,Needs Analysis,48,2025-01-21,2024-06-18,,Cross-sell,REFERRAL,Security Suite,Commit,,Salesforce,,North America
+NA-OPP-000050,NA-LEAD-000142,,364357.0,Closed Lost,0,2025-01-17,2024-07-31,Carol White,Cross-sell,LinkedIn,cloud suite,Commit,Send proposal,None,Competitor,North America
+NA-OPP-000051,NA-LEAD-000144,SmartSolutions - Opportunity,,Closed Won,100,2022-09-05,2022-02-10,,Cross-sell,web form,Integration Tools,Commit,Schedule demo,Oracle,,North America
+NA-OPP-000052,NA-LEAD-000145,FutureTech - Opportunity,94860.0,Closed Won,100,2024-06-03,2023-07-10,Dave Brown,New,LinkedIn,Analytics,Commit,Follow up,Oracle,,North America
+NA-OPP-000053,NA-LEAD-000147,CloudSystems - Opportunity,253177.0,Negotiation,54,2024-03-06,2023-09-14,Alice Johnson,Renewal,Web Form,,,Send proposal,None,,North America
+NA-OPP-000054,NA-LEAD-000149,TechCorp - Opportunity,393872.0,Closed Lost,0,2024-06-05,2023-11-08,Carol White,new business,Partner,Cloud Suite,,Schedule demo,Oracle,Price,North America
+NA-OPP-000055,NA-LEAD-000151,CloudSystems - Opportunity,455734.0,Prospecting,21,2022-12-29,2022-08-08,Carol White,Renewal,Web Form,cloud suite,,Send proposal,None,,North America
+NA-OPP-000056,NA-LEAD-000152,SmartSolutions - Opportunity,473061.0,Closed Won,100,2024-12-13,2024-07-18,,Cross-sell,LinkedIn,Cloud,Commit,Send proposal,None,,North America
+NA-OPP-000057,NA-LEAD-000154,InnovateLab - Opportunity,489781.0,Closed Won,100,2024-09-27,2024-02-29,,Cross-sell,Paid Ads,Analytics Platform,Best Case,,Oracle,,North America
+NA-OPP-000058,NA-LEAD-000156,InnovateLab - Opportunity,155940.0,closed won,100,2023-06-04,2023-04-23,Bob Smith,Upsell,web form,Integration Tools,Omitted,Send proposal,None,,North America
+NA-OPP-000059,NA-LEAD-000157,FutureTech - Opportunity,432662.0,closed won,100,2022-11-30,2022-04-21,Bob Smith,,Referral,Analytics Platform,Pipeline,Follow up,Salesforce,,North America
+NA-OPP-000060,NA-LEAD-000158,InnovateLab - Opportunity,321198.0,Needs Analysis,55,2023-08-27,2023-05-20,Dave Brown,Renewal,Paid Ads,Cloud,Best Case,Send proposal,,,North America
+NA-OPP-000061,NA-LEAD-000159,DigitalFirst - Opportunity,399269.0,Negotiation,76,2022-12-21,2022-01-29,Carol White,New Business,Web Form,Cloud Suite,Best Case,,Salesforce,,North America
+NA-OPP-000062,NA-LEAD-000160,FutureTech - Opportunity,,Needs Analysis,57,2024-01-31,2023-07-10,Dave Brown,New Business,Email Marketing,Analytics,Omitted,Send proposal,Salesforce,,North America
+NA-OPP-000063,NA-LEAD-000161,CloudSystems - Opportunity,298766.0,Closed Won,100,2022-06-24,2022-02-07,Bob Smith,Renewal,Paid Ads,Integration Tools,Pipeline,Send proposal,,,North America
+NA-OPP-000064,NA-LEAD-000162,InnovateLab - Opportunity,149261.0,Proposal,61,2023-09-15,2022-10-10,Alice Johnson,,Cold Call,,,Schedule demo,Salesforce,,North America
+NA-OPP-000065,NA-LEAD-000165,DigitalFirst - Opportunity,19427.0,closed won,100,2025-01-04,2024-08-02,,new business,Email Marketing,,Pipeline,Send proposal,Oracle,,North America
+NA-OPP-000066,NA-LEAD-000168,,480494.0,Closed Won,21,2023-05-09,2022-12-30,Alice Johnson,New,,Cloud Suite,Omitted,Schedule demo,,,North America
+NA-OPP-000067,NA-LEAD-000169,SmartSolutions - Opportunity,11179.0,Qualification,32,2024-04-05,2023-06-16,Dave Brown,Cross-sell,Email Marketing,Analytics,Pipeline,Follow up,,,North America
+NA-OPP-000068,NA-LEAD-000170,DigitalFirst - Opportunity,160543.0,Negotiation,72,2024-05-13,2023-09-07,Alice Johnson,,Referral,Cloud,Best Case,Schedule demo,SAP,,North America
+NA-OPP-000069,NA-LEAD-000171,InnovateLab - Opportunity,146762.0,Proposal,44,2024-03-19,2023-11-11,,New,LinkedIn,Cloud,Pipeline,,None,,North America
+NA-OPP-000070,NA-LEAD-000173,InnovateLab - Opportunity,473926.0,Prospecting,23,2023-04-14,2023-01-30,Dave Brown,Renewal,REFERRAL,Security Suite,Omitted,Follow up,Salesforce,,North America
+NA-OPP-000071,NA-LEAD-000174,FutureTech - Opportunity,240938.0,Proposal,70,2022-07-16,2022-04-21,Carol White,Cross-sell,REFERRAL,Security Suite,Commit,Send proposal,None,,North America
+NA-OPP-000072,NA-LEAD-000175,GlobalEnterprises - Opportunity,158472.0,Negotiation,86,2025-08-17,2024-09-25,Dave Brown,new business,web form,Security Suite,Pipeline,Send proposal,Oracle,,North America
+NA-OPP-000073,NA-LEAD-000177,GlobalEnterprises - Opportunity,412012.0,Proposal,44,2023-08-28,2023-02-05,,New,web form,Analytics,,Schedule demo,SAP,,North America
+NA-OPP-000074,NA-LEAD-000180,DataInc - Opportunity,411634.0,Negotiation,88,2024-08-02,2023-10-02,,New Business,LinkedIn,Cloud Suite,Best Case,Follow up,Salesforce,,North America
+NA-OPP-000075,NA-LEAD-000181,CloudSystems - Opportunity,217683.0,Proposal,63,2025-10-05,2024-11-01,Dave Brown,New,Paid Ads,Cloud Suite,Omitted,Schedule demo,None,,North America
+NA-OPP-000076,NA-LEAD-000183,SmartSolutions - Opportunity,150750.0,Closed Lost,0,2024-01-12,2023-07-08,Carol White,Upsell,Partner,cloud suite,Pipeline,,Oracle,,North America
+NA-OPP-000077,NA-LEAD-000186,,472683.0,Qualification,25,2023-07-23,2023-04-08,,new business,Paid Ads,Cloud,Pipeline,Follow up,Oracle,,North America
+NA-OPP-000078,NA-LEAD-000191,GlobalEnterprises - Opportunity,334130.0,Closed Won,100,2022-06-10,2022-03-30,Bob Smith,Upsell,LinkedIn,Integration Tools,,Send proposal,Salesforce,,North America
+NA-OPP-000079,NA-LEAD-000193,InnovateLab - Opportunity,,Prospecting,13,2023-12-18,2023-05-23,Dave Brown,New Business,Email Marketing,Cloud,Pipeline,,None,,North America
+NA-OPP-000080,NA-LEAD-000198,,292339.0,Negotiation,69,2022-12-19,2022-03-13,Dave Brown,New,Partner,Analytics,Omitted,,None,,North America
+NA-OPP-000081,NA-LEAD-000199,DataInc - Opportunity,211595.0,Negotiation,87,2024-03-30,2023-09-23,Carol White,Upsell,Referral,cloud suite,Commit,Schedule demo,SAP,,North America
+NA-OPP-000082,NA-LEAD-000200,SmartSolutions - Opportunity,282463.0,,9,2024-10-29,2023-12-21,Alice Johnson,Renewal,web form,Security Suite,,,Oracle,,North America
+NA-OPP-000083,NA-LEAD-000201,CloudSystems - Opportunity,149509.0,Closed Lost,0,2023-04-28,2023-02-13,Carol White,Upsell,Web Form,Integration Tools,Pipeline,Send proposal,,Competitor,North America
+NA-OPP-000084,NA-LEAD-000204,GlobalEnterprises - Opportunity,61882.0,Prospecting,26,2024-06-25,2023-12-15,Carol White,Cross-sell,Cold Call,,Pipeline,Follow up,Salesforce,,North America
+NA-OPP-000085,NA-LEAD-000205,TechCorp - Opportunity,495944.0,Closed Lost,0,2025-05-08,2024-08-18,Alice Johnson,new business,LinkedIn,Analytics,Commit,,None,,North America
+NA-OPP-000086,NA-LEAD-000207,DigitalFirst - Opportunity,111605.0,Proposal,53,2022-07-05,2022-03-25,Dave Brown,New Business,Referral,Analytics Platform,Omitted,Send proposal,SAP,,North America
+NA-OPP-000087,NA-LEAD-000208,DataInc - Opportunity,225675.0,Negotiation,69,2024-08-17,2024-01-15,Dave Brown,,Paid Ads,Integration Tools,Omitted,,,,North America
+NA-OPP-000088,NA-LEAD-000209,SmartSolutions - Opportunity,3747180.0,Prospecting,25,2023-02-12,2022-11-09,Bob Smith,,REFERRAL,cloud suite,Best Case,Schedule demo,Oracle,,North America
+NA-OPP-000089,NA-LEAD-000211,FutureTech - Opportunity,304961.0,Closed Won,100,2022-11-19,2022-07-19,Bob Smith,New Business,Referral,,Commit,,None,,North America
+NA-OPP-000090,NA-LEAD-000212,DataInc - Opportunity,360526.0,Proposal,52,2025-12-09,2023-02-26,Dave Brown,Cross-sell,Email Marketing,Cloud,Pipeline,Follow up,Oracle,,North America
+NA-OPP-000091,NA-LEAD-000214,InnovateLab - Opportunity,399801.0,,67,2024-08-26,2024-04-24,,new business,web form,cloud suite,Pipeline,Send proposal,SAP,,North America
+NA-OPP-000092,NA-LEAD-000220,InnovateLab - Opportunity,111017.0,Negotiation,67,2023-11-30,2023-06-30,Bob Smith,New,Paid Ads,cloud suite,Best Case,,None,,North America
+NA-OPP-000093,NA-LEAD-000221,TechCorp - Opportunity,39011.0,Negotiation,89,2022-07-05,2022-04-17,Dave Brown,Renewal,Partner,Analytics Platform,Commit,Send proposal,,,North America
+NA-OPP-000094,NA-LEAD-000222,SmartSolutions - Opportunity,98969.0,Needs Analysis,36,2025-05-20,2024-05-30,Alice Johnson,Renewal,Cold Call,cloud suite,,Follow up,,,North America
+NA-OPP-000095,NA-LEAD-000223,CloudSystems - Opportunity,253069.0,Negotiation,89,2022-12-25,2022-09-11,Carol White,,LinkedIn,Analytics,Commit,,Salesforce,,North America
+NA-OPP-000096,NA-LEAD-000226,,392656.0,Needs Analysis,91,2022-12-09,2022-06-21,Bob Smith,Renewal,Trade Show,Integration Tools,Omitted,Follow up,SAP,,North America
+NA-OPP-000097,NA-LEAD-000227,FutureTech - Opportunity,300398.0,Needs Analysis,39,2022-12-26,2022-04-03,Bob Smith,Renewal,Partner,Integration Tools,Commit,Send proposal,None,,North America
+NA-OPP-000098,NA-LEAD-000228,DigitalFirst - Opportunity,487389.0,,54,2025-12-10,2022-06-29,,New Business,Web Form,,Best Case,Send proposal,SAP,,North America
+NA-OPP-000099,NA-LEAD-000229,InnovateLab - Opportunity,254479.0,Closed Lost,0,2023-11-10,2023-02-17,Alice Johnson,Upsell,Trade Show,Cloud,Omitted,Send proposal,Oracle,Competitor,North America
+NA-OPP-000100,NA-LEAD-000231,GlobalEnterprises - Opportunity,418638.0,Closed Lost,0,2024-06-08,2023-09-14,Carol White,Renewal,LinkedIn,Analytics,Pipeline,Follow up,Salesforce,,North America
+NA-OPP-000101,NA-LEAD-000233,,433350.0,Closed Lost,0,2023-05-13,2022-12-17,Bob Smith,Renewal,Email Marketing,Security Suite,Best Case,,SAP,No Decision,North America
+NA-OPP-000102,NA-LEAD-000238,CloudSystems - Opportunity,,Qualification,29,2023-04-05,2022-08-30,Bob Smith,Renewal,REFERRAL,Security Suite,Best Case,,None,,North America
+NA-OPP-000103,NA-LEAD-000239,GlobalEnterprises - Opportunity,,Negotiation,75,2025-04-13,2024-07-08,,,Cold Call,Analytics Platform,Pipeline,Send proposal,SAP,,North America
+NA-OPP-000104,NA-LEAD-000241,DigitalFirst - Opportunity,356888.0,Needs Analysis,46,2023-05-19,2022-07-03,Bob Smith,,Trade Show,Cloud Suite,Omitted,,,,North America
+NA-OPP-000105,NA-LEAD-000243,DigitalFirst - Opportunity,487946.0,Proposal,56,2023-09-23,2022-12-09,Carol White,Renewal,Partner,,Omitted,Follow up,,,North America
+NA-OPP-000106,NA-LEAD-000244,SmartSolutions - Opportunity,301258.0,Prospecting,16,2023-09-25,2023-03-08,Carol White,New,REFERRAL,,Best Case,,Oracle,,North America
+NA-OPP-000107,NA-LEAD-000246,InnovateLab - Opportunity,483729.0,Needs Analysis,50,2024-05-17,2023-07-16,,new business,Cold Call,cloud suite,Pipeline,Follow up,None,,North America
+NA-OPP-000108,NA-LEAD-000248,DataInc - Opportunity,136808.0,Proposal,43,2023-05-04,2022-09-19,Alice Johnson,Renewal,,,Best Case,,,,North America
+NA-OPP-000109,NA-LEAD-000250,TechCorp - Opportunity,328000.0,closed won,100,2025-04-27,2024-05-14,Carol White,New Business,,,,Follow up,None,,North America
+NA-OPP-000110,NA-LEAD-000251,SmartSolutions - Opportunity,148168.0,Proposal,50,2022-12-13,2022-01-21,Carol White,Renewal,Partner,Analytics Platform,Best Case,Send proposal,None,,North America
+NA-OPP-000111,NA-LEAD-000255,SmartSolutions - Opportunity,324774.0,Proposal,69,2024-03-09,2023-05-28,Bob Smith,New Business,Web Form,Security Suite,Best Case,Schedule demo,SAP,,North America
+NA-OPP-000112,NA-LEAD-000256,GlobalEnterprises - Opportunity,132069.0,Qualification,49,2024-02-07,2023-11-29,Alice Johnson,Upsell,LinkedIn,Analytics Platform,,,None,,North America
+NA-OPP-000113,NA-LEAD-000257,FutureTech - Opportunity,187286.0,Qualification,46,2025-12-15,2024-02-20,Alice Johnson,new business,web form,Analytics Platform,Omitted,,SAP,,North America
+NA-OPP-000114,NA-LEAD-000258,CloudSystems - Opportunity,96312.0,Proposal,67,2022-10-21,2022-08-15,Dave Brown,Cross-sell,Partner,Analytics Platform,Pipeline,,Salesforce,,North America
+NA-OPP-000115,NA-LEAD-000260,DataInc - Opportunity,74926.0,,66,2024-11-30,2024-01-26,Bob Smith,Cross-sell,REFERRAL,Analytics Platform,Best Case,Send proposal,Oracle,,North America
+NA-OPP-000116,NA-LEAD-000262,TechCorp - Opportunity,,Prospecting,29,2024-09-15,2024-05-13,Dave Brown,Upsell,Email Marketing,Security Suite,Pipeline,Send proposal,Salesforce,,North America
+NA-OPP-000117,NA-LEAD-000263,InnovateLab - Opportunity,300698.0,Qualification,41,2024-10-08,2024-07-28,,New Business,Referral,,Omitted,,Oracle,,North America
+NA-OPP-000118,NA-LEAD-000265,InnovateLab - Opportunity,55253.0,Prospecting,26,2024-10-19,2023-11-10,Alice Johnson,Renewal,REFERRAL,Analytics,Best Case,Schedule demo,SAP,,North America
+NA-OPP-000119,NA-LEAD-000269,CloudSystems - Opportunity,108487.0,Prospecting,26,2025-03-20,2024-05-24,Carol White,Upsell,,Cloud,Omitted,,None,,North America
+NA-OPP-000120,NA-LEAD-000271,TechCorp - Opportunity,242022.0,,37,2022-09-06,2022-07-18,,Upsell,Email Marketing,Analytics,Pipeline,Schedule demo,None,,North America
+NA-OPP-000121,NA-LEAD-000273,DigitalFirst - Opportunity,341194.0,closed won,100,2025-01-11,2024-08-14,Bob Smith,New Business,Email Marketing,Analytics Platform,Pipeline,Send proposal,Salesforce,,North America
+NA-OPP-000122,NA-LEAD-000275,,,Negotiation,71,2023-11-21,2023-03-31,Alice Johnson,new business,Paid Ads,Cloud,Omitted,Schedule demo,Salesforce,,North America
+NA-OPP-000123,NA-LEAD-000278,FutureTech - Opportunity,189362.0,Closed Lost,0,2025-03-06,2024-09-27,Alice Johnson,Renewal,REFERRAL,Cloud Suite,Commit,Follow up,,Price,North America
+NA-OPP-000124,NA-LEAD-000283,DataInc - Opportunity,278267.0,,64,2022-12-19,2022-04-09,Alice Johnson,,Email Marketing,Security Suite,Commit,,Salesforce,,North America
+NA-OPP-000125,NA-LEAD-000287,GlobalEnterprises - Opportunity,165654.0,Qualification,90,2024-10-15,2024-03-20,Carol White,Renewal,,Security Suite,Omitted,,Oracle,,North America
+NA-OPP-000126,NA-LEAD-000290,FutureTech - Opportunity,36100.0,Proposal,57,2025-02-05,2024-09-08,,Renewal,Cold Call,cloud suite,Best Case,Send proposal,Oracle,,North America
+NA-OPP-000127,NA-LEAD-000291,SmartSolutions - Opportunity,472533.0,Closed Won,100,2024-12-14,2024-01-09,,Cross-sell,Partner,Cloud,,Follow up,SAP,,North America
+NA-OPP-000128,NA-LEAD-000292,,297152.0,closed won,100,2024-01-25,2023-06-02,Bob Smith,New,Cold Call,cloud suite,Best Case,Follow up,Oracle,,North America
+NA-OPP-000129,NA-LEAD-000293,DigitalFirst - Opportunity,497346.0,Negotiation,84,2023-06-06,2023-02-28,Dave Brown,new business,LinkedIn,Cloud,Commit,Send proposal,None,,North America
+NA-OPP-000130,NA-LEAD-000297,GlobalEnterprises - Opportunity,281917.0,Needs Analysis,49,2023-02-11,2022-11-13,Carol White,Upsell,Trade Show,Cloud,Best Case,Schedule demo,Salesforce,,North America
+NA-OPP-000131,NA-LEAD-000298,TechCorp - Opportunity,306918.0,Closed Won,100,2023-05-08,2022-11-06,Bob Smith,New,REFERRAL,Cloud,Omitted,Send proposal,,,North America
+NA-OPP-000132,NA-LEAD-000299,FutureTech - Opportunity,,Closed Won,100,2024-08-08,2023-12-24,Carol White,Upsell,web form,cloud suite,Best Case,Follow up,None,,North America
+NA-OPP-000133,NA-LEAD-000301,CloudSystems - Opportunity,480746.0,Closed Won,59,2022-12-19,2022-06-11,Alice Johnson,Cross-sell,Email Marketing,Analytics Platform,,Send proposal,SAP,,North America
+NA-OPP-000134,NA-LEAD-000302,DigitalFirst - Opportunity,475645.0,Needs Analysis,43,2025-02-02,2024-10-24,Carol White,Upsell,Paid Ads,,Best Case,Follow up,Oracle,,North America
+NA-OPP-000135,NA-LEAD-000303,TechCorp - Opportunity,336299.0,Qualification,48,2024-04-20,2023-05-06,Dave Brown,Cross-sell,web form,Analytics Platform,Best Case,Schedule demo,,,North America
+NA-OPP-000136,NA-LEAD-000304,CloudSystems - Opportunity,9694.0,Prospecting,93,2022-11-23,2022-07-19,Alice Johnson,New Business,Trade Show,Cloud Suite,Best Case,,Oracle,,North America
+NA-OPP-000137,NA-LEAD-000305,FutureTech - Opportunity,455914.0,,36,2024-04-14,2023-05-05,Bob Smith,Cross-sell,Web Form,cloud suite,,,None,,North America
+NA-OPP-000138,NA-LEAD-000314,SmartSolutions - Opportunity,141979.0,closed won,60,2023-06-11,2023-01-18,Dave Brown,Upsell,LinkedIn,,Pipeline,Follow up,,,North America
+NA-OPP-000139,NA-LEAD-000315,GlobalEnterprises - Opportunity,447004.0,,77,2023-03-13,2022-06-06,,,Cold Call,Integration Tools,Pipeline,Follow up,SAP,,North America
+NA-OPP-000140,NA-LEAD-000317,FutureTech - Opportunity,320001.0,closed won,100,2024-10-17,2024-05-29,,Cross-sell,REFERRAL,Analytics Platform,Commit,Schedule demo,SAP,,North America
+NA-OPP-000141,NA-LEAD-000319,TechCorp - Opportunity,128932.0,Proposal,57,2025-04-07,2024-08-03,,Renewal,LinkedIn,Analytics,Commit,,None,,North America
+NA-OPP-000142,NA-LEAD-000328,,50651.0,Qualification,29,2023-02-21,2022-11-30,Bob Smith,New,Trade Show,Analytics,,Follow up,Salesforce,,North America
+NA-OPP-000143,NA-LEAD-000329,DigitalFirst - Opportunity,200822.0,Proposal,54,2023-12-08,2023-03-25,Dave Brown,new business,Email Marketing,Analytics,Omitted,Send proposal,None,,North America
+NA-OPP-000144,NA-LEAD-000330,FutureTech - Opportunity,397945.0,Negotiation,90,2023-01-10,2022-07-16,,New,REFERRAL,Cloud Suite,Pipeline,,SAP,,North America
+NA-OPP-000145,NA-LEAD-000331,GlobalEnterprises - Opportunity,313799.0,Needs Analysis,56,2023-04-06,2022-04-22,Carol White,new business,web form,Cloud Suite,Best Case,Schedule demo,Oracle,,North America
+NA-OPP-000146,NA-LEAD-000332,,3349945.0,Closed Won,100,2023-01-27,2022-07-18,Dave Brown,Cross-sell,LinkedIn,Analytics,Pipeline,Send proposal,,,North America
+NA-OPP-000147,NA-LEAD-000334,FutureTech - Opportunity,179959.0,Closed Lost,0,2025-06-15,2024-11-16,Bob Smith,New Business,Partner,Integration Tools,Best Case,Follow up,None,Price,North America
+NA-OPP-000148,NA-LEAD-000338,TechCorp - Opportunity,240312.0,,22,2023-02-14,2022-03-08,Alice Johnson,New,Partner,Cloud Suite,Best Case,Send proposal,Oracle,,North America
+NA-OPP-000149,NA-LEAD-000341,,282422.0,Negotiation,81,2023-11-10,2023-07-02,Dave Brown,,,Cloud Suite,Best Case,Schedule demo,Salesforce,,North America
+NA-OPP-000150,NA-LEAD-000344,DigitalFirst - Opportunity,384166.0,Closed Lost,0,2022-08-26,2022-01-26,Carol White,Cross-sell,Email Marketing,Cloud Suite,Best Case,Follow up,,Price,North America
+NA-OPP-000151,NA-LEAD-000345,TechCorp - Opportunity,409497.0,Negotiation,70,2023-06-16,2023-04-22,Bob Smith,Upsell,LinkedIn,Integration Tools,Pipeline,Send proposal,SAP,,North America
+NA-OPP-000152,NA-LEAD-000346,TechCorp - Opportunity,348317.0,Qualification,39,2023-12-07,2023-10-31,Carol White,new business,Referral,Analytics,Pipeline,Follow up,SAP,,North America
+NA-OPP-000153,NA-LEAD-000350,DataInc - Opportunity,61288.0,closed won,100,2023-09-30,2022-11-08,Dave Brown,Upsell,Web Form,Security Suite,,Follow up,Salesforce,,North America
+NA-OPP-000154,NA-LEAD-000351,CloudSystems - Opportunity,486415.0,Closed Won,100,2023-05-24,2022-08-31,Alice Johnson,Upsell,Email Marketing,Security Suite,,Follow up,,,North America
+NA-OPP-000155,NA-LEAD-000352,CloudSystems - Opportunity,49371.0,,57,2025-06-11,2024-07-18,Dave Brown,new business,Trade Show,Cloud,Omitted,Follow up,SAP,,North America
+NA-OPP-000156,NA-LEAD-000353,TechCorp - Opportunity,,Prospecting,12,2022-10-26,2022-01-17,Alice Johnson,,web form,cloud suite,Omitted,Follow up,Salesforce,,North America
+NA-OPP-000157,NA-LEAD-000355,FutureTech - Opportunity,497246.0,Negotiation,70,2023-02-16,2022-05-05,Alice Johnson,New,Trade Show,Analytics Platform,Omitted,,Salesforce,,North America
+NA-OPP-000158,NA-LEAD-000359,InnovateLab - Opportunity,372553.0,closed won,100,2022-09-24,2022-06-21,Alice Johnson,Renewal,Trade Show,Analytics,Omitted,Follow up,Oracle,,North America
+NA-OPP-000159,NA-LEAD-000360,DataInc - Opportunity,381206.0,Negotiation,88,2024-09-07,2024-02-09,Dave Brown,Renewal,,Analytics Platform,Commit,Follow up,None,,North America
+NA-OPP-000160,NA-LEAD-000362,TechCorp - Opportunity,223040.0,Closed Won,100,2023-09-15,2023-01-30,Carol White,Renewal,REFERRAL,Cloud Suite,Commit,Follow up,SAP,,North America
+NA-OPP-000161,NA-LEAD-000365,TechCorp - Opportunity,480273.0,Closed Lost,0,2023-10-28,2023-07-14,Carol White,Renewal,web form,,Pipeline,Send proposal,Salesforce,Competitor,North America
+NA-OPP-000162,NA-LEAD-000366,TechCorp - Opportunity,241479.0,Closed Lost,0,2024-07-21,2023-10-06,,Renewal,LinkedIn,Analytics Platform,,,Oracle,Price,North America
+NA-OPP-000163,NA-LEAD-000369,,141247.0,closed won,100,2023-12-02,2023-07-05,Alice Johnson,New Business,Cold Call,cloud suite,Commit,,,,North America
+NA-OPP-000164,NA-LEAD-000372,InnovateLab - Opportunity,209709.0,Prospecting,13,2023-02-16,2022-07-16,Bob Smith,New,Partner,Cloud Suite,Omitted,Send proposal,Oracle,,North America
+NA-OPP-000165,NA-LEAD-000373,TechCorp - Opportunity,223721.0,Closed Lost,0,2023-09-13,2023-03-09,Alice Johnson,New Business,Trade Show,Cloud Suite,Pipeline,Send proposal,Oracle,,North America
+NA-OPP-000166,NA-LEAD-000375,SmartSolutions - Opportunity,166762.0,Proposal,63,2022-11-03,2022-04-13,Alice Johnson,New Business,,Security Suite,Pipeline,Send proposal,,,North America
+NA-OPP-000167,NA-LEAD-000378,GlobalEnterprises - Opportunity,221572.0,Closed Won,100,2024-09-01,2024-05-11,,New,Referral,cloud suite,Omitted,Schedule demo,Oracle,,North America
+NA-OPP-000168,NA-LEAD-000379,GlobalEnterprises - Opportunity,124818.0,Closed Lost,0,2023-01-23,2022-03-02,,Cross-sell,Email Marketing,Cloud Suite,Best Case,Send proposal,None,Price,North America
+NA-OPP-000169,NA-LEAD-000380,SmartSolutions - Opportunity,21182.0,Negotiation,83,2023-01-10,2022-08-05,Bob Smith,New,Paid Ads,Analytics,Omitted,,Salesforce,,North America
+NA-OPP-000170,NA-LEAD-000381,FutureTech - Opportunity,,Closed Won,100,2022-10-07,2022-02-16,Carol White,Upsell,Trade Show,Cloud,,Schedule demo,,,North America
+NA-OPP-000171,NA-LEAD-000382,GlobalEnterprises - Opportunity,268604.0,,37,2025-03-25,2024-10-21,Alice Johnson,Renewal,Email Marketing,cloud suite,Omitted,Follow up,Oracle,,North America
+NA-OPP-000172,NA-LEAD-000383,DataInc - Opportunity,373646.0,Needs Analysis,45,2022-11-06,2022-08-01,,New,Trade Show,Cloud,Best Case,Follow up,SAP,,North America
+NA-OPP-000173,NA-LEAD-000384,,45278.0,Closed Lost,0,2024-07-07,2023-08-14,Alice Johnson,new business,Email Marketing,Analytics,Omitted,,,Competitor,North America
+NA-OPP-000174,NA-LEAD-000385,CloudSystems - Opportunity,346402.0,Proposal,40,2024-03-23,2023-12-06,Alice Johnson,Renewal,Partner,Analytics Platform,,Follow up,Oracle,,North America
+NA-OPP-000175,NA-LEAD-000390,FutureTech - Opportunity,26804.0,,79,2024-09-20,2024-05-04,,New Business,Referral,Security Suite,Pipeline,,None,,North America
+NA-OPP-000176,NA-LEAD-000393,SmartSolutions - Opportunity,237194.0,Closed Lost,0,2025-06-06,2024-10-04,Dave Brown,New Business,Paid Ads,Analytics Platform,,Schedule demo,SAP,,North America
+NA-OPP-000177,NA-LEAD-000394,TechCorp - Opportunity,155471.0,Closed Won,100,2023-09-08,2023-04-07,Alice Johnson,Renewal,Trade Show,Cloud Suite,,Follow up,SAP,,North America
+NA-OPP-000178,NA-LEAD-000397,CloudSystems - Opportunity,264603.0,,74,2023-10-10,2023-05-25,Bob Smith,,Cold Call,,Omitted,Send proposal,SAP,,North America
+NA-OPP-000179,NA-LEAD-000403,DigitalFirst - Opportunity,474020.0,closed won,100,2022-07-11,2022-01-01,,New,Paid Ads,Cloud Suite,Pipeline,Schedule demo,Salesforce,,North America
+NA-OPP-000180,NA-LEAD-000405,DigitalFirst - Opportunity,490079.0,Prospecting,16,2024-04-28,2023-07-19,Dave Brown,New,web form,Integration Tools,,Schedule demo,,,North America
+NA-OPP-000181,NA-LEAD-000407,DigitalFirst - Opportunity,306139.0,Qualification,40,2023-02-27,2022-11-25,,new business,Trade Show,Security Suite,Commit,Schedule demo,Salesforce,,North America
+NA-OPP-000182,NA-LEAD-000413,FutureTech - Opportunity,190269.0,Prospecting,10,2024-01-29,2023-02-15,,New Business,REFERRAL,Integration Tools,Best Case,Send proposal,,,North America
+NA-OPP-000183,NA-LEAD-000415,InnovateLab - Opportunity,250503.0,closed won,100,2024-12-07,2024-10-02,Bob Smith,New,Trade Show,Cloud Suite,Best Case,,,,North America
+NA-OPP-000184,NA-LEAD-000416,FutureTech - Opportunity,355812.0,closed won,100,2024-06-25,2024-02-12,,New,REFERRAL,cloud suite,Pipeline,Send proposal,None,,North America
+NA-OPP-000185,NA-LEAD-000419,GlobalEnterprises - Opportunity,1513417.0,Proposal,43,2023-02-11,2022-05-17,Alice Johnson,Cross-sell,Paid Ads,cloud suite,Omitted,,None,,North America
+NA-OPP-000186,NA-LEAD-000426,CloudSystems - Opportunity,75660.0,,42,2024-09-02,2024-04-30,Alice Johnson,Upsell,Partner,Cloud Suite,Omitted,,None,,North America
+NA-OPP-000187,NA-LEAD-000427,FutureTech - Opportunity,342331.0,Qualification,46,2023-06-28,2022-11-03,Dave Brown,Renewal,Trade Show,Analytics,Pipeline,Follow up,SAP,,North America
+NA-OPP-000188,NA-LEAD-000428,GlobalEnterprises - Opportunity,191355.0,Closed Won,100,2025-05-10,2024-06-05,,New Business,Referral,Analytics,Pipeline,Schedule demo,Salesforce,,North America
+NA-OPP-000189,NA-LEAD-000429,InnovateLab - Opportunity,135891.0,Closed Lost,0,2024-11-27,2024-09-28,Dave Brown,New,,Cloud Suite,,Send proposal,,Competitor,North America
+NA-OPP-000190,NA-LEAD-000432,DataInc - Opportunity,174665.0,Proposal,47,2025-01-24,2024-07-02,Bob Smith,New,LinkedIn,Security Suite,Best Case,Follow up,,,North America
+NA-OPP-000191,NA-LEAD-000438,GlobalEnterprises - Opportunity,408338.0,Closed Won,100,2024-09-18,2024-01-26,Bob Smith,,,Cloud Suite,Best Case,Send proposal,SAP,,North America
+NA-OPP-000192,NA-LEAD-000441,DigitalFirst - Opportunity,202937.0,Needs Analysis,57,2024-12-18,2024-07-13,Bob Smith,Upsell,REFERRAL,cloud suite,Pipeline,Send proposal,,,North America
+NA-OPP-000193,NA-LEAD-000445,,402108.0,Negotiation,85,2023-09-13,2022-10-26,Alice Johnson,New,Cold Call,Integration Tools,Best Case,Schedule demo,None,,North America
+NA-OPP-000194,NA-LEAD-000447,DataInc - Opportunity,136442.0,Proposal,48,2025-08-12,2024-10-11,Bob Smith,New Business,Trade Show,Cloud Suite,Pipeline,Send proposal,SAP,,North America
+NA-OPP-000195,NA-LEAD-000449,DigitalFirst - Opportunity,484647.0,Prospecting,14,2025-06-04,2024-07-13,,Renewal,Email Marketing,cloud suite,Pipeline,,,,North America
+NA-OPP-000196,NA-LEAD-000451,GlobalEnterprises - Opportunity,53432.0,Closed Lost,0,2023-02-23,2022-03-10,Bob Smith,Cross-sell,Paid Ads,,Pipeline,Send proposal,Oracle,Price,North America
+NA-OPP-000197,NA-LEAD-000454,TechCorp - Opportunity,97847.0,Closed Won,100,2024-06-11,2024-05-04,,Cross-sell,Partner,Cloud Suite,Pipeline,,Oracle,,North America
+NA-OPP-000198,NA-LEAD-000456,InnovateLab - Opportunity,12487.0,Needs Analysis,36,2023-08-19,2023-02-26,Alice Johnson,Renewal,LinkedIn,Cloud,Best Case,Schedule demo,Oracle,,North America
+NA-OPP-000199,NA-LEAD-000464,SmartSolutions - Opportunity,366587.0,Prospecting,23,2024-03-08,2023-09-04,Alice Johnson,,REFERRAL,Analytics,Omitted,,Oracle,,North America
+NA-OPP-000200,NA-LEAD-000465,DigitalFirst - Opportunity,,Closed Won,100,2024-10-05,2024-02-06,Alice Johnson,new business,REFERRAL,Cloud Suite,Best Case,,Salesforce,,North America
+NA-OPP-000201,NA-LEAD-000466,DigitalFirst - Opportunity,236838.0,Prospecting,20,2024-07-31,2024-01-24,Alice Johnson,Renewal,Partner,cloud suite,,Follow up,SAP,,North America
+NA-OPP-000202,NA-LEAD-000471,DataInc - Opportunity,82333.0,Proposal,44,2024-02-29,2023-08-06,Carol White,New,Web Form,cloud suite,Pipeline,Schedule demo,Salesforce,,North America
+NA-OPP-000203,NA-LEAD-000472,DataInc - Opportunity,201535.0,Needs Analysis,58,2023-05-21,2022-10-30,Bob Smith,new business,LinkedIn,Analytics Platform,Omitted,Schedule demo,SAP,,North America
+NA-OPP-000204,NA-LEAD-000473,GlobalEnterprises - Opportunity,390636.0,Closed Won,100,2024-07-25,2024-03-25,,new business,,Analytics Platform,Commit,Send proposal,Salesforce,,North America
+NA-OPP-000205,NA-LEAD-000474,SmartSolutions - Opportunity,447888.0,Closed Won,100,2024-02-01,2023-12-04,Dave Brown,new business,LinkedIn,Security Suite,Commit,Schedule demo,Oracle,,North America
+NA-OPP-000206,NA-LEAD-000477,DigitalFirst - Opportunity,134533.0,Negotiation,79,2022-10-20,2022-05-21,,Cross-sell,Trade Show,Cloud Suite,Best Case,,None,,North America
+NA-OPP-000207,NA-LEAD-000478,DataInc - Opportunity,315310.0,Proposal,47,2023-02-16,2022-11-29,Dave Brown,new business,LinkedIn,Security Suite,,Schedule demo,,,North America
+NA-OPP-000208,NA-LEAD-000479,SmartSolutions - Opportunity,35002.0,Prospecting,18,2022-06-23,2022-02-05,Bob Smith,New Business,Web Form,Cloud Suite,Omitted,Follow up,SAP,,North America
+NA-OPP-000209,NA-LEAD-000481,InnovateLab - Opportunity,367710.0,Proposal,46,2023-01-24,2022-04-11,,Renewal,Email Marketing,cloud suite,Best Case,,SAP,,North America
+NA-OPP-000210,NA-LEAD-000483,InnovateLab - Opportunity,7575.0,Closed Lost,0,2023-12-06,2023-08-23,Alice Johnson,,Referral,Cloud Suite,Best Case,,,Competitor,North America
+NA-OPP-000211,NA-LEAD-000484,DataInc - Opportunity,454623.0,Needs Analysis,35,2024-04-27,2024-03-19,,New,Email Marketing,cloud suite,Omitted,Follow up,Oracle,,North America
+NA-OPP-000212,NA-LEAD-000485,FutureTech - Opportunity,156870.0,Closed Lost,0,2022-07-26,2022-04-11,Carol White,New,REFERRAL,Analytics Platform,Best Case,Follow up,Oracle,,North America
+NA-OPP-000213,NA-LEAD-000486,GlobalEnterprises - Opportunity,440140.0,Negotiation,79,2023-05-06,2022-10-01,Dave Brown,New Business,,Analytics,Best Case,Send proposal,,,North America
+NA-OPP-000214,NA-LEAD-000489,,157190.0,closed won,100,2023-11-23,2023-05-09,Carol White,new business,Paid Ads,Integration Tools,Omitted,,Salesforce,,North America
+NA-OPP-000215,NA-LEAD-000490,TechCorp - Opportunity,223633.0,Prospecting,12,2023-12-11,2023-01-03,Alice Johnson,new business,LinkedIn,Cloud,Pipeline,Follow up,None,,North America
+NA-OPP-000216,NA-LEAD-000491,CloudSystems - Opportunity,450077.0,Closed Lost,0,2024-01-06,2023-06-30,Dave Brown,,REFERRAL,Cloud,Best Case,Schedule demo,None,Competitor,North America
+NA-OPP-000217,NA-LEAD-000493,,270420.0,,52,2022-11-09,2022-06-14,Carol White,New,Referral,Analytics Platform,Pipeline,Follow up,,,North America
+NA-OPP-000218,NA-LEAD-000494,CloudSystems - Opportunity,485876.0,closed won,100,2024-04-06,2023-12-25,,New,Referral,Security Suite,Omitted,Follow up,Oracle,,North America
+NA-OPP-000219,NA-LEAD-000495,SmartSolutions - Opportunity,216987.0,Qualification,28,2024-08-25,2023-12-01,Alice Johnson,new business,Trade Show,Integration Tools,Omitted,,Oracle,,North America
+NA-OPP-000220,NA-LEAD-000496,,216581.0,Closed Won,100,2023-04-02,2023-01-14,Carol White,new business,Trade Show,Cloud Suite,Pipeline,Schedule demo,SAP,,North America
+NA-OPP-000221,NA-LEAD-000500,SmartSolutions - Opportunity,,Closed Lost,0,2024-03-02,2023-04-08,Dave Brown,,Cold Call,Security Suite,,Follow up,SAP,Competitor,North America
+NA-OPP-000222,NA-LEAD-000504,InnovateLab - Opportunity,140592.0,Proposal,43,2023-11-01,2023-06-25,Dave Brown,new business,Email Marketing,Cloud,Omitted,Follow up,,,North America
+NA-OPP-000223,NA-LEAD-000512,InnovateLab - Opportunity,373179.0,closed won,100,2025-10-15,2024-11-17,Alice Johnson,New,Partner,cloud suite,Omitted,Schedule demo,,,North America
+NA-OPP-000224,NA-LEAD-000514,DataInc - Opportunity,,Closed Lost,0,2025-07-02,2024-11-21,Alice Johnson,New Business,Trade Show,Analytics Platform,Best Case,Schedule demo,None,,North America
+NA-OPP-000225,NA-LEAD-000518,GlobalEnterprises - Opportunity,256813.0,closed won,100,2022-08-06,2022-03-20,Carol White,New Business,Partner,Cloud,Best Case,,Oracle,,North America
+NA-OPP-000226,NA-LEAD-000519,DigitalFirst - Opportunity,115446.0,Prospecting,30,2025-09-12,2023-05-30,Carol White,Cross-sell,LinkedIn,Analytics Platform,Omitted,Send proposal,,,North America
+NA-OPP-000227,NA-LEAD-000539,GlobalEnterprises - Opportunity,257964.0,Closed Lost,0,2022-10-19,2022-02-08,,New Business,Partner,Analytics Platform,Commit,Follow up,Salesforce,Competitor,North America
+NA-OPP-000228,NA-LEAD-000540,CloudSystems - Opportunity,20472.0,Qualification,27,2022-11-09,2022-03-28,Dave Brown,Cross-sell,Trade Show,Cloud Suite,Commit,Send proposal,Oracle,,North America
+NA-OPP-000229,NA-LEAD-000541,InnovateLab - Opportunity,220940.0,Qualification,35,2024-01-16,2023-04-23,Alice Johnson,Cross-sell,,Analytics Platform,Best Case,Schedule demo,SAP,,North America
+NA-OPP-000230,NA-LEAD-000545,FutureTech - Opportunity,203266.0,Needs Analysis,52,2023-04-04,2023-01-08,Alice Johnson,Renewal,Web Form,Analytics,Commit,,Salesforce,,North America
+NA-OPP-000231,NA-LEAD-000547,FutureTech - Opportunity,200811.0,Needs Analysis,43,2022-11-27,2022-01-01,,,Partner,Security Suite,Commit,,,,North America
+NA-OPP-000232,NA-LEAD-000551,FutureTech - Opportunity,230908.0,Closed Lost,0,2024-05-16,2023-06-21,Dave Brown,new business,Email Marketing,Analytics Platform,,Send proposal,None,No Decision,North America
+NA-OPP-000233,NA-LEAD-000553,FutureTech - Opportunity,,Proposal,67,2022-06-12,2022-05-03,,Renewal,Partner,Security Suite,Pipeline,Send proposal,SAP,,North America
+NA-OPP-000234,NA-LEAD-000554,CloudSystems - Opportunity,363216.0,Qualification,47,2022-09-30,2022-04-20,Dave Brown,New Business,REFERRAL,Analytics Platform,Pipeline,Schedule demo,SAP,,North America
+NA-OPP-000235,NA-LEAD-000557,DigitalFirst - Opportunity,382771.0,Qualification,42,2024-02-19,2023-06-05,Carol White,,REFERRAL,Analytics Platform,Best Case,,,,North America
+NA-OPP-000236,NA-LEAD-000561,TechCorp - Opportunity,,Proposal,65,2023-01-08,2022-01-08,,New Business,,Analytics Platform,Commit,Schedule demo,Oracle,,North America
+NA-OPP-000237,NA-LEAD-000565,CloudSystems - Opportunity,22475.0,Prospecting,13,2023-08-08,2022-11-30,,,Web Form,Security Suite,Pipeline,Send proposal,Salesforce,,North America
+NA-OPP-000238,NA-LEAD-000567,,471463.0,Negotiation,84,2024-05-20,2024-02-04,Carol White,,,Integration Tools,Omitted,Send proposal,Salesforce,,North America
+NA-OPP-000239,NA-LEAD-000568,SmartSolutions - Opportunity,436795.0,Negotiation,65,2025-11-17,2022-01-31,Alice Johnson,new business,Trade Show,,Commit,,SAP,,North America
+NA-OPP-000240,NA-LEAD-000569,DigitalFirst - Opportunity,209861.0,Qualification,28,2023-04-01,2022-06-19,Dave Brown,Cross-sell,REFERRAL,Analytics Platform,Omitted,Follow up,SAP,,North America
+NA-OPP-000241,NA-LEAD-000575,GlobalEnterprises - Opportunity,470403.0,Closed Won,100,2023-09-09,2023-06-23,Bob Smith,Renewal,Referral,Integration Tools,,Follow up,SAP,,North America
+NA-OPP-000242,NA-LEAD-000576,GlobalEnterprises - Opportunity,67164.0,Closed Won,100,2023-08-27,2023-03-12,Carol White,New,Cold Call,cloud suite,,Follow up,,,North America
+NA-OPP-000243,NA-LEAD-000577,DigitalFirst - Opportunity,3566547.0,,46,2024-02-01,2023-05-13,Bob Smith,Upsell,LinkedIn,,,Send proposal,Salesforce,,North America
+NA-OPP-000244,NA-LEAD-000586,InnovateLab - Opportunity,479886.0,closed won,100,2023-04-21,2022-06-08,Alice Johnson,Upsell,Cold Call,Cloud Suite,Pipeline,,None,,North America
+NA-OPP-000245,NA-LEAD-000590,SmartSolutions - Opportunity,160294.0,Closed Lost,0,2023-03-18,2022-10-30,Carol White,New Business,REFERRAL,Cloud,Best Case,Schedule demo,Salesforce,Competitor,North America
+NA-OPP-000246,NA-LEAD-000591,CloudSystems - Opportunity,69852.0,Proposal,68,2022-10-23,2022-05-15,Bob Smith,New,Web Form,Analytics Platform,Pipeline,Schedule demo,SAP,,North America
+NA-OPP-000247,NA-LEAD-000593,,250511.0,Negotiation,75,2025-02-21,2024-07-29,Bob Smith,New,Trade Show,Security Suite,Best Case,Follow up,Oracle,,North America
+NA-OPP-000248,NA-LEAD-000594,GlobalEnterprises - Opportunity,72186.0,Needs Analysis,40,2023-10-14,2023-06-22,,,Email Marketing,Security Suite,Pipeline,Schedule demo,SAP,,North America
+NA-OPP-000249,NA-LEAD-000598,GlobalEnterprises - Opportunity,124157.0,Closed Lost,0,2024-10-10,2024-04-11,Bob Smith,New,Web Form,Cloud,Omitted,Follow up,,Competitor,North America
+NA-OPP-000250,NA-LEAD-000599,DigitalFirst - Opportunity,168092.0,,31,2023-07-23,2023-02-20,Alice Johnson,Upsell,Email Marketing,Cloud,Omitted,Schedule demo,None,,North America
+NA-OPP-000251,NA-LEAD-000602,FutureTech - Opportunity,156944.0,closed won,100,2024-09-21,2024-05-04,Dave Brown,new business,Referral,Integration Tools,,Follow up,,,North America
+NA-OPP-000252,NA-LEAD-000603,FutureTech - Opportunity,312114.0,Closed Won,100,2023-07-06,2022-07-19,Alice Johnson,New Business,web form,Cloud,Omitted,Send proposal,None,,North America
+NA-OPP-000253,NA-LEAD-000604,GlobalEnterprises - Opportunity,358728.0,Closed Lost,0,2024-03-03,2023-12-21,Dave Brown,,REFERRAL,Security Suite,Best Case,Schedule demo,Salesforce,Price,North America
+NA-OPP-000254,NA-LEAD-000609,DataInc - Opportunity,218804.0,Needs Analysis,45,2024-01-20,2023-02-26,Alice Johnson,,Partner,cloud suite,Pipeline,Schedule demo,,,North America
+NA-OPP-000255,NA-LEAD-000614,DigitalFirst - Opportunity,258622.0,Closed Won,100,2022-09-14,2022-01-26,Dave Brown,Cross-sell,REFERRAL,Security Suite,,Follow up,,,North America
+NA-OPP-000256,NA-LEAD-000618,TechCorp - Opportunity,186053.0,Prospecting,13,2022-09-06,2022-04-24,Bob Smith,Cross-sell,LinkedIn,,Omitted,Follow up,None,,North America
+NA-OPP-000257,NA-LEAD-009999,Orphan Opportunity,99108.0,closed won,51,2026-05-08,2025-12-16,Alice Johnson,Cross-sell,Cold Call,,Best Case,Follow up,,,North America
+NA-OPP-000258,NA-LEAD-010000,Orphan Opportunity,79734.0,closed won,40,2026-01-27,2025-12-16,Alice Johnson,new business,Referral,Cloud Suite,Best Case,Follow up,,,North America
+NA-OPP-000259,NA-LEAD-010001,Orphan Opportunity,94810.0,closed won,58,2026-02-07,2025-12-16,Bob Smith,New Business,Paid Ads,cloud suite,Pipeline,Follow up,,,North America
+NA-OPP-000260,NA-LEAD-010002,Orphan Opportunity,92516.0,Needs Analysis,75,2026-05-25,2025-12-16,Alice Johnson,New,Partner,Analytics Platform,Pipeline,Follow up,,,North America
+NA-OPP-000261,NA-LEAD-010003,Orphan Opportunity,73094.0,Negotiation,45,2026-04-25,2025-12-16,Bob Smith,,Paid Ads,Cloud,Best Case,Follow up,,,North America
+NA-OPP-000262,NA-LEAD-010004,Orphan Opportunity,29865.0,Qualification,49,2026-02-14,2025-12-16,Alice Johnson,Cross-sell,LinkedIn,Analytics,Best Case,Follow up,,,North America
+NA-OPP-000263,NA-LEAD-010005,Orphan Opportunity,65469.0,,62,2026-03-18,2025-12-16,Alice Johnson,Upsell,Cold Call,Analytics,Pipeline,Follow up,,,North America
+NA-OPP-000264,NA-LEAD-010006,Orphan Opportunity,60706.0,Closed Won,65,2026-02-20,2025-12-16,Bob Smith,Cross-sell,,cloud suite,Best Case,Follow up,,,North America
+NA-OPP-000265,NA-LEAD-010007,Orphan Opportunity,74175.0,Proposal,40,2026-01-17,2025-12-16,Bob Smith,,Referral,Cloud Suite,Best Case,Follow up,,,North America
+NA-OPP-000266,NA-LEAD-010008,Orphan Opportunity,33050.0,,64,2026-03-13,2025-12-16,Bob Smith,New,Paid Ads,,Best Case,Follow up,,,North America
+NA-OPP-000267,NA-LEAD-010009,Orphan Opportunity,64420.0,Qualification,31,2026-04-21,2025-12-16,Alice Johnson,Cross-sell,web form,Integration Tools,Best Case,Follow up,,,North America
+NA-OPP-000268,NA-LEAD-010010,Orphan Opportunity,97841.0,Proposal,26,2026-06-10,2025-12-16,Bob Smith,Upsell,Paid Ads,Analytics,Best Case,Follow up,,,North America
