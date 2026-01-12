@@ -19,28 +19,7 @@ conda activate sika-analytics
 3. Run the initial load script: \i sql/task_00_load_data.sql
 
 
-## 3 Project Structure
-.
-├── environment.yml
-├── csv/
-│   ├──latam_lead.csv
-│   ├──latam_opportunity.csv
-│   ├──na_lead.csv
-│   ├──na_opportunity.csv
-├── sql/
-│   ├── task_00_load_data.sql
-│   ├── task_01_schema_integration/
-│   ├── task_02_standardization/
-│   ├── task_03_data_quality/
-│   └── task_05_kpi_views/
-│
-├── notebooks/
-│   └── 05_executive_analysis.ipynb
-│
-├── executive_summary.md
-└── README.md
-
-## 4 Analytics
+## 3 Analytics
 
 Business KPIs are defined as SQL views
 
